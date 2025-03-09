@@ -6,5 +6,6 @@
 cacheUrl: https://maq-maq-maq-maq.github.io/feedeen/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: http://blog.livedoor.jp/dqnplus/index.rdf
+  - href: https://news.yahoo.co.jp/rss/media/it_nlab/all.xml
   - href: http://www.nikaidou.com/feed/
+  - href: http://blog.livedoor.jp/dqnplus/index.rdf
