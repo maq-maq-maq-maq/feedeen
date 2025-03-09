@@ -7,545 +7,876 @@
       "articles": []
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
+      "title": "ねとらぼ - Yahoo!ニュース",
+      "feedUrl": "https://news.yahoo.co.jp/rss/media/it_nlab/all.xml",
+      "siteUrl": "https://news.yahoo.co.jp/media/it_nlab?source=rss",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=357985",
-          "author": "Chris Coyier",
-          "description": "I think if you’re a DevOps person in any capacity, the utility of Docker is very clear. Your things run in containers that are identical everywhere. Assuming Docker is working/running, the code will execute in a reliably consistent way whether …",
-          "link": "https://css-tricks.com/dock-life-using-docker-for-all-the-things/",
-          "publishedOn": "2021-12-01T21:11:53.000Z",
-          "wordCount": 628,
-          "title": "Dock Life: Using Docker for All The Things!"
+          "id": "https://news.yahoo.co.jp/articles/99bac53daee470e24ae37b59f581a06e2bfccb58?source=rss",
+          "author": null,
+          "description": "アーキテクトが運営するWebサイト「タレントパワーランキング supported by DmMiX」は、独自のタレント調査を実施し、算出したスコアから「男前なイメージが強い20代男性グループ所属タレ",
+          "link": "https://news.yahoo.co.jp/articles/99bac53daee470e24ae37b59f581a06e2bfccb58?source=rss",
+          "publishedOn": "2025-03-09T12:20:00.000Z",
+          "wordCount": 1753,
+          "title": "「男前なイメージの20代男性グループのタレント」ランキング！　2位は「八木勇征」、1位は？(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108344-it_nlab-000-1-view.jpg?exp=10800"
         },
         {
-          "id": "https://css-tricks.com/?p=357344",
-          "author": "George Francis",
-          "description": "In nature, no two things are ever the same. Life is imperfect, unpredictable, and beautiful. We can walk through the same forest every day and see differently colored leaves. We can look up at the clouds every minute and watch …",
-          "link": "https://css-tricks.com/embrace-the-unpredictable/",
-          "publishedOn": "2021-12-01T15:47:46.000Z",
-          "wordCount": 726,
-          "title": "Embrace the Unpredictable"
+          "id": "https://news.yahoo.co.jp/articles/c49e621374e50c07d3a5bf55c4fcf730be3d9c33?source=rss",
+          "author": null,
+          "description": "中華料理店は、日本人向けの親しみやすい味を楽しめるお店から、本場の味を忠実に再現した本格派までお店ごとにさまざまなスタイルがあります。今回は三重県でおすすめの中華料理を探している人に向けて、Goog",
+          "link": "https://news.yahoo.co.jp/articles/c49e621374e50c07d3a5bf55c4fcf730be3d9c33?source=rss",
+          "publishedOn": "2025-03-09T12:10:00.000Z",
+          "wordCount": 1690,
+          "title": "「三重県で人気の中華料理」ランキング！　2位は担々麺が評判の四日市のお店「和華」、1位は？【2025年3月版】(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108483-it_nlab-000-1-view.jpg?exp=10800"
         },
         {
-          "id": "https://css-tricks.com/?p=356146",
-          "author": "Amelia Wattenberger",
-          "description": "What is one thing people can do to make their website better?\n Exactly what you want to build!\nAsk yourself:\nWhat drew you to development in the beginning?\nIs there an experimental API that you’ve been wanting to try out?\n…",
-          "link": "https://css-tricks.com/exactly-what-you-want/",
-          "publishedOn": "2021-12-01T15:46:29.000Z",
-          "wordCount": 491,
-          "title": "Exactly What You Want"
+          "id": "https://news.yahoo.co.jp/articles/264e507c9bbcb32b197432cca03dcbb190acf6f5?source=rss",
+          "author": null,
+          "description": "入るのか、入らないのか……どっち!?　収納スペースが限られたクルマに大型テレビを積み込む様子が、X（Twitter）で「良く入りましたねそれ！？」「人乗れます？」などと反響を呼んでいます。",
+          "link": "https://news.yahoo.co.jp/articles/264e507c9bbcb32b197432cca03dcbb190acf6f5?source=rss",
+          "publishedOn": "2025-03-09T12:00:17.000Z",
+          "wordCount": 1719,
+          "title": "スバル「BRZ」に“50インチのテレビ”を積み込むと……　ギリギリ押し込んだ猛者に「人乗れます？」「良く入りましたね」(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000086-it_nlab-000-1-view.jpg?exp=10800"
         },
         {
-          "id": "https://css-tricks.com/?p=357109",
-          "author": "Chris Coyier",
-          "description": "I was playing this game on Apple Arcade the other day called wurdweb. It’s a fun little game! Little touches like the little shape dudes that walk around the screen (but otherwise don’t do anything) give it a lot …",
-          "link": "https://css-tricks.com/diagonal-stripes-wipe-animation/",
-          "publishedOn": "2021-11-30T17:26:35.000Z",
-          "wordCount": 946,
-          "title": "Diagonal Stripes Wipe Animation"
+          "id": "https://news.yahoo.co.jp/articles/3e7806df47b903cbba720e38009b7be0b6ab7ac5?source=rss",
+          "author": null,
+          "description": "バレンタインデーにもらったロールケーキから酸っぱいニオイが……切ってみたらビックリ！　驚きの連続で何度もドキドキさせられちゃう動画がYouTubeに投稿されました。動画は記事執筆時点で3万7000回",
+          "link": "https://news.yahoo.co.jp/articles/3e7806df47b903cbba720e38009b7be0b6ab7ac5?source=rss",
+          "publishedOn": "2025-03-09T12:00:12.000Z",
+          "wordCount": 1719,
+          "title": "職場の女の子からもらったロールケーキ→切ってみた中身は……　まさかの“正体”が天才の発想すぎる(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000021-it_nlab-000-1-view.jpg?exp=10800"
         },
         {
-          "id": "https://css-tricks.com/?p=357728",
-          "author": "Tobias Günther",
-          "description": "This article is part of our “Advanced Git” series. Be sure to follow us on Twitter or sign up for our newsletter to hear about future articles!\nThe “Reflog” is one of Git’s lesser-known features—but one that can be extremely …",
-          "link": "https://css-tricks.com/using-the-reflog-to-restore-lost-commits/",
-          "publishedOn": "2021-11-30T15:53:27.000Z",
-          "wordCount": 2431,
-          "title": "Using the Reflog to Restore Lost Commits"
+          "id": "https://news.yahoo.co.jp/articles/7bf1668275873f38966d932be1abc730e7c3ee1e?source=rss",
+          "author": null,
+          "description": "ウェイブダッシュが運営する、みんなでつくる地域応援サイト「生活ガイド.com」は、「（漢字で）書けそうで書けない市ランキング」を発表しました。\n\n　このランキングは、「生活ガイド.com」運営事務局",
+          "link": "https://news.yahoo.co.jp/articles/7bf1668275873f38966d932be1abc730e7c3ee1e?source=rss",
+          "publishedOn": "2025-03-09T12:00:00.000Z",
+          "wordCount": 1714,
+          "title": "「漢字」で書けそうで書けない全国の市ランキング！　2位は「そうさ市（匝瑳市）」、1位は？(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108343-it_nlab-000-1-view.jpg?exp=10800"
         },
         {
-          "id": "https://css-tricks.com/?p=357679",
-          "author": "Chris Coyier",
-          "description": "(This is a sponsored post.)\nCloudinary (the media hosting and optimization service) has a brand new version (v3) of its WordPress plugin that has really nailed it. First, a high-level look at the biggest things this plugin does:\nIt \n…",
-          "link": "https://css-tricks.com/a-look-at-the-cloudinary-wordpress-plugin/",
-          "publishedOn": "2021-11-30T15:23:00.000Z",
-          "wordCount": 1256,
-          "title": "A Look at the Cloudinary WordPress Plugin"
+          "id": "https://news.yahoo.co.jp/articles/e003e3978cdb17fa8926fa32f6840d79691e839d?source=rss",
+          "author": null,
+          "description": "段ボールで、本格的な家電のレプリカを作る動画がTikTokで話題です。動画は310万回以上再生され、約11万5000件の“いいね”を集めています。\n\n　話題になっているのは、段ボールを用いた工作動画",
+          "link": "https://news.yahoo.co.jp/articles/e003e3978cdb17fa8926fa32f6840d79691e839d?source=rss",
+          "publishedOn": "2025-03-09T11:50:16.000Z",
+          "wordCount": 1719,
+          "title": "「ここまで作れるのか！」　段ボールで冷蔵庫を再現したら……“驚きの完成度”に「素晴らしい作品」と310万再生【海外】(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000051-it_nlab-000-1-view.jpg?exp=10800"
         },
         {
-          "id": "https://css-tricks.com/?p=357565",
-          "author": "Geoff Graham",
-          "description": "Apple Music has this “Spatial Audio” feature where the direction of the music in your headphones is based on the location of the device. It’s tough to explain just how neat it is. But that’s not what I’m here to …",
-          "link": "https://css-tricks.com/recreating-the-apple-music-hits-playlist-animation-in-css/",
-          "publishedOn": "2021-11-29T16:38:49.000Z",
-          "wordCount": 1516,
-          "title": "Recreating the Apple Music Hits Playlist Animation in CSS"
+          "id": "https://news.yahoo.co.jp/articles/f7660092fc5f34831d3f7149c2a2037f5653af4d?source=rss",
+          "author": null,
+          "description": "かつては作品を酷評されたイラストレーター。作品制作動画をSNSに公開したところ、「まってすごい綺麗」「神イラスト」と称賛の声が続出。YouTubeの動画は記事執筆時点で23万回以上再生されています。",
+          "link": "https://news.yahoo.co.jp/articles/f7660092fc5f34831d3f7149c2a2037f5653af4d?source=rss",
+          "publishedOn": "2025-03-09T11:50:14.000Z",
+          "wordCount": 1761,
+          "title": "「こんな絵で何万円!?」「美大も出てないのに？」と酷評されたが今では……　批判をバネにした作品に「うっ美しい」「神イラスト」(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000037-it_nlab-000-1-view.jpg?exp=10800"
         },
         {
-          "id": "https://css-tricks.com/?p=357976",
-          "author": "Chris Coyier",
-          "description": "This is a neat idea for a research project. The big map is fun, but the research had some tidbits in it worth looking at.\nThe average favicon network request takes 130ms, at least from our speedy cloud instance.\n…",
-          "link": "https://css-tricks.com/we-analyzed-425909-favicons/",
-          "publishedOn": "2021-11-29T16:38:07.000Z",
-          "wordCount": 483,
-          "title": "We Analyzed 425,909 Favicons"
+          "id": "https://news.yahoo.co.jp/articles/b6b983370e1cc751f26c2031856318caa6d13758?source=rss",
+          "author": null,
+          "description": "フライパンで焼くだけで楽しめる、名店のハンバーグだねがX（Twitter）で人気です。記事執筆時点で400万回以上の表示、4万件を超える“いいね”を集めています。",
+          "link": "https://news.yahoo.co.jp/articles/b6b983370e1cc751f26c2031856318caa6d13758?source=rss",
+          "publishedOn": "2025-03-09T11:50:08.000Z",
+          "wordCount": 1701,
+          "title": "肉々しいハンバーグが4つで“まさか”のお値段！　手ごろな名店の味が400万表示の人気「焼くだけでとってもおいしい」(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000035-it_nlab-000-1-view.jpg?exp=10800"
         },
         {
-          "id": "https://css-tricks.com/?p=357271",
-          "author": "Chris Coyier",
-          "description": "I’ve got some blind spots in CSS-related performance things. One example is the will-change property. It’s a good name. You’re telling the browser some particular property (or the scroll-position or content) uh, will, change:\n.el {\n  will-change: opacity;\n\n…",
-          "link": "https://css-tricks.com/when-is-it-right-to-reach-for-contain-and-will-change-in-css/",
-          "publishedOn": "2021-11-26T20:43:05.000Z",
-          "wordCount": 2084,
-          "title": "When is it “Right” to Reach for  contain and will-change in CSS?"
+          "id": "https://news.yahoo.co.jp/articles/0da4ecfa262464fd011ca810cf509166555bf004?source=rss",
+          "author": null,
+          "description": "バスケットコートに10日間かけて絵を描く動画がYouTubeで公開され、「素晴らしいアート作品」「スゴく壮大だね！」など反響を呼んでいます。",
+          "link": "https://news.yahoo.co.jp/articles/0da4ecfa262464fd011ca810cf509166555bf004?source=rss",
+          "publishedOn": "2025-03-09T11:40:14.000Z",
+          "wordCount": 1697,
+          "title": "バスケットコートに10日間かけて絵を描いたら……　街中に現れた“芸術作品”に「スゴく壮大」「ここでプレイできたら最高」(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000043-it_nlab-000-1-view.jpg?exp=10800"
         },
         {
-          "id": "https://css-tricks.com/?p=357239",
-          "author": "Neale Van Fleet",
-          "description": "I love little touches that make a website feel like more than just a static document. What if web content wouldn’t just “appear” when a page loaded, but instead popped, slid, faded, or spun into place? It might be a …",
-          "link": "https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/",
-          "publishedOn": "2021-11-26T16:12:33.000Z",
-          "wordCount": 2444,
-          "title": "A Handy Little System for Animated Entrances in CSS"
+          "id": "https://news.yahoo.co.jp/articles/1d4e4b469ee3cfcce58b97d71e8d4f0ab5b548cc?source=rss",
+          "author": null,
+          "description": "縦型のブラインドカーテンを使った、思わずほっこりする“子どもの遊び”がThreadsで話題です。自由な発想がすてき。",
+          "link": "https://news.yahoo.co.jp/articles/1d4e4b469ee3cfcce58b97d71e8d4f0ab5b548cc?source=rss",
+          "publishedOn": "2025-03-09T11:40:09.000Z",
+          "wordCount": 1735,
+          "title": "「発想が天才」　カーテンがいつの間にか……　幼い息子の“自由すぎる遊び”にほっこり　「これは片付けられない」(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000032-it_nlab-000-1-view.jpg?exp=10800"
         },
         {
-          "id": "https://css-tricks.com/?p=357294",
-          "author": "George Francis",
-          "description": "The browser has long been a medium for art and design. From Lynn Fisher’s joyful A Single Div creations to Diana Smith’s staggeringly detailed CSS paintings, wildly creative, highly skilled developers have — over the years — continuously pushed …",
-          "link": "https://css-tricks.com/creating-generative-patterns-with-the-css-paint-api/",
-          "publishedOn": "2021-11-24T15:49:08.000Z",
-          "wordCount": 5674,
-          "title": "Creating Generative Patterns with The CSS Paint API"
+          "id": "https://news.yahoo.co.jp/articles/be03c5e424b94643a4ec87c6ebfee2784b64e14d?source=rss",
+          "author": null,
+          "description": "さまざまなエリアのラーメン店を紹介する日本最大級のラーメン情報サイト「ラーメンデータベース」では、ユーザーからのレビューを活用したラーメン店のランキングを公開しています。今回はその中から、「広島の豚",
+          "link": "https://news.yahoo.co.jp/articles/be03c5e424b94643a4ec87c6ebfee2784b64e14d?source=rss",
+          "publishedOn": "2025-03-09T11:40:00.000Z",
+          "wordCount": 1706,
+          "title": "「広島の豚骨醤油ラーメン店」人気ランキング！　2位は「上海総本店」、1位は？【2025年3月4日時点の評価／ラーメンデータベース】(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108302-it_nlab-000-1-view.jpg?exp=10800"
         },
         {
-          "id": "https://css-tricks.com/?p=357412",
-          "author": "Chris Coyier",
-          "description": "Tyler Sticka digs in here in the best possible way: by making a test page and literally measuring performance. Maybe 1,000 icons is a little bit of an edge case, but hey, 250 rows of data with four icons in …",
-          "link": "https://css-tricks.com/which-svg-technique-performs-best-for-way-too-many-icons/",
-          "publishedOn": "2021-11-23T19:21:28.000Z",
-          "wordCount": 461,
-          "title": "Which SVG technique performs best for way too many icons?"
+          "id": "https://news.yahoo.co.jp/articles/5ba0b5287bf1c4cd99709e559c2ee33c8993ac3b?source=rss",
+          "author": null,
+          "description": "線維筋痛症と診断され、日常的に杖を使用している女性の“すてきなこだわり”がTikTokで話題です。動画は記事執筆時点で13万回以上再生され、たくさんの反響が寄せられています。",
+          "link": "https://news.yahoo.co.jp/articles/5ba0b5287bf1c4cd99709e559c2ee33c8993ac3b?source=rss",
+          "publishedOn": "2025-03-09T11:30:15.000Z",
+          "wordCount": 1771,
+          "title": "病気で杖が必要となった女性、落ち込んだが……「だったらかわいくしてしまえ！」　すてきな“アレンジ術”に反響「すごい！可愛い！」(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000022-it_nlab-000-1-view.jpg?exp=10800"
         },
         {
-          "id": "https://css-tricks.com/?p=356977",
-          "author": "Alaa Abd El-Rahim",
-          "description": "Many business websites need a multilingual setup. As with anything development-related, implementing one in an easy, efficient, and maintainable way is desirable. Designing and developing to be ready for multiple languages, whether it happens right at launch or is expected …",
-          "link": "https://css-tricks.com/control-layout-in-a-multi-directional-website/",
-          "publishedOn": "2021-11-23T16:06:44.000Z",
-          "wordCount": 4908,
-          "title": "Control Layout in a Multi-Directional Website"
+          "id": "https://news.yahoo.co.jp/articles/d81392f19821ba566d2bef0044912fd44f5579b8?source=rss",
+          "author": null,
+          "description": "ワンコの背中にコッペパンができるかわいい洋服がX（Twitter）に投稿され、記事執筆時点で482万回表示を突破、14万件のいいねを集めています。",
+          "link": "https://news.yahoo.co.jp/articles/d81392f19821ba566d2bef0044912fd44f5579b8?source=rss",
+          "publishedOn": "2025-03-09T11:30:11.000Z",
+          "wordCount": 1718,
+          "title": "洋服を着た柴犬→背中をよーく見ると……「こ、こ、これは!!」　衝撃のビジュアルが482万表示「天才」(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000016-it_nlab-000-1-view.jpg?exp=10800"
         },
         {
-          "id": "https://css-tricks.com/?p=357149",
-          "author": "Chris Coyier",
-          "description": "Inspired by Eva PenzeyMoog’s new book, Jeremy highlights the widespread user tracking situation in this industry:\nThere was a line that really stood out to me: \nThe idea that it’s alright to do whatever unethical thing is currently the \n…",
-          "link": "https://css-tricks.com/on-user-tracking-and-industry-standards-on-privacy/",
-          "publishedOn": "2021-11-22T21:00:50.000Z",
-          "wordCount": 2662,
-          "title": "On User Tracking and Industry Standards on Privacy"
+          "id": "https://news.yahoo.co.jp/articles/d0201a973550444259aba84b3d635b22109e33a2?source=rss",
+          "author": null,
+          "description": "群馬県にある草津温泉は日本有数の温泉地。ゆったりした時間をこの地で過ごした思い出があるという人も多いでしょう。そこで今回は草津温泉でおすすめの旅館を探している人に向けて、Googleマップ上で人気の",
+          "link": "https://news.yahoo.co.jp/articles/d0201a973550444259aba84b3d635b22109e33a2?source=rss",
+          "publishedOn": "2025-03-09T11:30:00.000Z",
+          "wordCount": 1726,
+          "title": "「草津温泉で人気の旅館」ランキング！　2位は貸切風呂を備えた「草津温泉 お豆の小宿 花いんげん」、1位は？【2025年3月版】(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108280-it_nlab-000-1-view.jpg?exp=10800"
         },
         {
-          "id": "https://css-tricks.com/?p=357046",
-          "author": "Chris Coyier",
-          "description": "A reader wrote to me the other day asking about this bit of CSS they came across in Wikipedia’s Common.css:\n.mw-collapsible-leftside-toggle .mw-collapsible-toggle {\n  /* @noflip */\n  float: left;\n  /* @noflip */\n  text-align: left;\n}\nWhat’s that @noflip business? That’s …",
-          "link": "https://css-tricks.com/css-decorations/",
-          "publishedOn": "2021-11-22T18:48:00.000Z",
-          "wordCount": 1090,
-          "title": "CSS “decorations”"
+          "id": "https://news.yahoo.co.jp/articles/a82ebee654565c781146c7133ffc6a24cb976397?source=rss",
+          "author": null,
+          "description": "DIYしていた賃貸物件の“スゴい原状復帰”がX（Twitter）で話題です。驚きのビフォーアフターに「こんなに奇麗に回復できるんですね！」「原状回復しながら、ここまですてきに変えるのは本当にすごい！",
+          "link": "https://news.yahoo.co.jp/articles/a82ebee654565c781146c7133ffc6a24cb976397?source=rss",
+          "publishedOn": "2025-03-09T11:20:13.000Z",
+          "wordCount": 1695,
+          "title": "大規模DIYした賃貸物件の“原状復帰ビフォーアフター”が1100万表示　敷金取り返した完璧さに「すげええええええええ!!」「尊敬します」(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000042-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/75a0c8274e7e553fb9e005fa503da3437f26006c?source=rss",
+          "author": null,
+          "description": "100均のシールを使って、あっという間に“ミッキー&ミニー”を作る方法がInstagramで94万回を超える再生数（記事執筆時点）を集めています。",
+          "link": "https://news.yahoo.co.jp/articles/75a0c8274e7e553fb9e005fa503da3437f26006c?source=rss",
+          "publishedOn": "2025-03-09T11:20:09.000Z",
+          "wordCount": 1710,
+          "title": "「天才」　まさかのアイテムで“ミッキー&ミニー”を作る！　すてきなアイデアに94万再生の反響　「すごい発想力」(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000033-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9cf033155b9653cbb6326d77ad0be0f24e66dfb5?source=rss",
+          "author": null,
+          "description": "伊藤蘭さん、田中好子さん、藤村美樹さんの3人からなる「キャンディーズ」。昭和を代表するアイドルとして、わずか4年7カ月という短い活動期間ながら、「年下の男の子」や「微笑がえし」など、今なお多くの人に",
+          "link": "https://news.yahoo.co.jp/articles/9cf033155b9653cbb6326d77ad0be0f24e66dfb5?source=rss",
+          "publishedOn": "2025-03-09T11:20:00.000Z",
+          "wordCount": 1723,
+          "title": "【男性が選ぶ】「キャンディーズのシングル曲」人気ランキング！　2位は同率で「哀愁のシンフォニー」「やさしい悪魔」、1位は？(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108224-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5ee3338b09e71d6b69d8be986d5d75d5fbcef333?source=rss",
+          "author": null,
+          "description": "南極に浮かぶクルーズ船の先端で、華麗に踊るバレリーナの動画がTikTokで58万回以上再生され注目を集めています。\n\n　極寒の南極で華麗な踊りを見せているのは、フランスのバレエダンサー兼振付師のヴィ",
+          "link": "https://news.yahoo.co.jp/articles/5ee3338b09e71d6b69d8be986d5d75d5fbcef333?source=rss",
+          "publishedOn": "2025-03-09T11:10:14.000Z",
+          "wordCount": 1708,
+          "title": "一歩踏み外せば氷の海に……　南極海に浮かぶ船の先端で踊るバレリーナに「狂気だ」「AIかと思った」(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000039-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ca452ad455972a8731f7257ff6212f423ff30697?source=rss",
+          "author": null,
+          "description": "5年前や10年前……。少し前にインターネット上で話題になった投稿や動画を振り返って紹介する企画「昔のインターネット発掘！」。今回は2022年2月にTikTokに投稿された「シンプルなワイシャツをドレ",
+          "link": "https://news.yahoo.co.jp/articles/ca452ad455972a8731f7257ff6212f423ff30697?source=rss",
+          "publishedOn": "2025-03-09T11:10:09.000Z",
+          "wordCount": 1730,
+          "title": "「やってみたい」　大きめサイズのワイシャツ　→ドレスみたいにリメイク！　かわいらしいデザインが500万再生の人気　【海外】(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000034-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6a8bb5c5209e3721ff46dc93c6ab3394d78723ed?source=rss",
+          "author": null,
+          "description": "さまざまなエリアのラーメン店を紹介する日本最大級のラーメン情報サイト「ラーメンデータベース」では、ユーザーからのレビューを活用したラーメン店のランキングを公開しています。今回はその中から、「岡山のラ",
+          "link": "https://news.yahoo.co.jp/articles/6a8bb5c5209e3721ff46dc93c6ab3394d78723ed?source=rss",
+          "publishedOn": "2025-03-09T11:10:00.000Z",
+          "wordCount": 1711,
+          "title": "「岡山のラーメン店」人気ランキング！　2位は「中華そば いではら」、1位は？【2025年3月3日時点の評価／ラーメンデータベース】(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108163-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f51382edf5e1c71b0570467c8a68eb2f1077d74e?source=rss",
+          "author": null,
+          "description": "“築55年の古民家”を素人が独学でリノベーションする1500時間をまとめたタイムラプス動画がYouTubeに投稿され、「まさにクレイジー」と注目を集めています。\n\n　動画の投稿者は、自宅を修復・リノ",
+          "link": "https://news.yahoo.co.jp/articles/f51382edf5e1c71b0570467c8a68eb2f1077d74e?source=rss",
+          "publishedOn": "2025-03-09T11:00:18.000Z",
+          "wordCount": 1767,
+          "title": "築55年の古民家を1500時間かけてリノベDIYしたら……？　“驚きの変化”に「まさにクレイジー」【海外】(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000029-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/514e811405670c9287f69177129d498c17ea024a?source=rss",
+          "author": null,
+          "description": "久しぶりにコスプレに復帰したいという妻が作っていた衣装が驚きの見た目だった……そんなつぶやきがX（Twitter）に投稿され、記事執筆時点で645万件以上表示されるほど話題になっています。\n\n　投稿",
+          "link": "https://news.yahoo.co.jp/articles/514e811405670c9287f69177129d498c17ea024a?source=rss",
+          "publishedOn": "2025-03-09T11:00:12.000Z",
+          "wordCount": 1771,
+          "title": "妻「コスプレ復帰したい」→夫が楽しみにしていると……　“衝撃のクオリティー”が645万表示 「すげえなw」「間違いなく黄金級」(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000009-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/25a0bcbc864b72cc555e39d47a7e7f1061c69387?source=rss",
+          "author": null,
+          "description": "ドライブやツーリング中の休憩場所としてはもちろん、その地域の名産や魅力を堪能することもできる道の駅。「道の駅へ行くために出かける」という人もいるのではないでしょうか。そこで今回は、大阪府でおすすめの",
+          "link": "https://news.yahoo.co.jp/articles/25a0bcbc864b72cc555e39d47a7e7f1061c69387?source=rss",
+          "publishedOn": "2025-03-09T11:00:00.000Z",
+          "wordCount": 1714,
+          "title": "「大阪府で人気の道の駅」ランキング！　2位は安くておいしい農産物がそろっている「道の駅 愛彩ランド」、1位は？【2025年3月版】(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108152-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/86d98c501ef0175b31f01ead33d175599f4e4a28?source=rss",
+          "author": null,
+          "description": "カラオケの採点でたたき出された“衝撃の点数”がX（Twitter）で話題に。投稿は記事執筆時点で約7万1000件の“いいね”を獲得し、350万回以上表示されています。こんなことあるんだ……。",
+          "link": "https://news.yahoo.co.jp/articles/86d98c501ef0175b31f01ead33d175599f4e4a28?source=rss",
+          "publishedOn": "2025-03-09T10:50:08.000Z",
+          "wordCount": 1725,
+          "title": "「えっっっっっぐwww」　カラオケで精密採点したら……　とんでもない“奇跡の点数”が350万表示　「100よりすごいだろこんなん」(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000045-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8215e1be61fc499faea510fe82fbc4a57fdbfe47?source=rss",
+          "author": null,
+          "description": "東京都と埼玉県をつないでいる「東武東上線」は、利便性が高い路線として知られており、沿線には多くの人が住んでいます。\n\n　そこで、ねとらぼではアンケートサイト「ボイスノート」協力のもと、沿線都県の男性",
+          "link": "https://news.yahoo.co.jp/articles/8215e1be61fc499faea510fe82fbc4a57fdbfe47?source=rss",
+          "publishedOn": "2025-03-09T10:50:00.000Z",
+          "wordCount": 1717,
+          "title": "【沿線都県の男性が選ぶ】永住したい「東武東上線沿いの駅」ランキング！　2位は「川越市」、1位は？(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108093-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5b0e8cf65677a6903320cb0f186b6836f664af4b?source=rss",
+          "author": null,
+          "description": "奇跡のような絶景として訪れる人を魅了するボリビアの「ウユニ塩湖（塩原）」。この場所でよく旅行者が撮影する動画が、意外な方法で撮られていることがX（Twitter）で明かされ話題です。この投稿は、記事",
+          "link": "https://news.yahoo.co.jp/articles/5b0e8cf65677a6903320cb0f186b6836f664af4b?source=rss",
+          "publishedOn": "2025-03-09T10:40:09.000Z",
+          "wordCount": 1703,
+          "title": "ウユニ塩湖の感動シーンが荒業すぎる……　現地ガイドの“撮影方法”に「スキル最高」「力技好き」と驚き(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000057-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9535ad18da958a67ff44258fccd8a0dfd2556f2d?source=rss",
+          "author": null,
+          "description": "民泊革命では、日本全国にある民泊を対象に、日本一の民泊を決めるコンテストを実施し、その結果を「BEST OF MINPAKU 2025」として発表しました。2025年が2回目の開催となった「BEST",
+          "link": "https://news.yahoo.co.jp/articles/9535ad18da958a67ff44258fccd8a0dfd2556f2d?source=rss",
+          "publishedOn": "2025-03-09T10:40:00.000Z",
+          "wordCount": 1807,
+          "title": "「一戸建て民泊」人気ランキング！　2位は「Hotel be home Tokyo（東京都墨田区）」、1位は？(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108448-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/81216ec9b2b51febf85586d0c88032ea69f12949?source=rss",
+          "author": null,
+          "description": "ロングヘアの女性がヘアカットで大変身！　驚きのイメチェン動画がTikTokに投稿され、記事執筆時点で66万回再生を突破、9400件を超える“いいね”を獲得しています。",
+          "link": "https://news.yahoo.co.jp/articles/81216ec9b2b51febf85586d0c88032ea69f12949?source=rss",
+          "publishedOn": "2025-03-09T10:30:11.000Z",
+          "wordCount": 1722,
+          "title": "「ボブが良かった」と言われたロングヘアの女性→美容師の手にかかると……　“印象激変”の仕上がりに「すごい」「大成功やん」(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000003-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b27aba38824a7bae13ac343864c6be30e3e2825e?source=rss",
+          "author": null,
+          "description": "手軽な調理方法が魅力で、仕事のお昼休憩などで食べる機会の多い「カップ焼きそば」。多種多様な商品がコンビニエンスストアやスーパーマーケットで販売されているため、どのカップ焼きそばを食べようか迷ってしま",
+          "link": "https://news.yahoo.co.jp/articles/b27aba38824a7bae13ac343864c6be30e3e2825e?source=rss",
+          "publishedOn": "2025-03-09T10:30:00.000Z",
+          "wordCount": 1731,
+          "title": "【男性が選ぶ】結局一番だと思う「カップ焼きそば」ランキング！　2位は「ペヤング ソースやきそば」、1位は？(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108118-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5da42b5dc74981939d4a7fd961d4d9d60efe5401?source=rss",
+          "author": null,
+          "description": "首都圏に位置し、多くの人口を持つ埼玉県には、おいしいラーメン店が数多くあります。\n\n　さまざまなエリアのラーメン店を紹介する日本最大級のラーメン情報サイト「ラーメンデータベース」では、ユーザーからの",
+          "link": "https://news.yahoo.co.jp/articles/5da42b5dc74981939d4a7fd961d4d9d60efe5401?source=rss",
+          "publishedOn": "2025-03-09T10:20:00.000Z",
+          "wordCount": 1727,
+          "title": "「埼玉のラーメン店」人気ランキング！　2位は「オランダ軒」、1位は？【2025年2月3日時点の評価／ラーメンデータベース】(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108147-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/38a3d88cbeaed1f9c9fd680e4382f19f3239b34c?source=rss",
+          "author": null,
+          "description": "東京都に本部を置く私立大学群を指す「GMARCH」（学習院大学・明治大学・青山学院大学・立教大学・中央大学・法政大学）と「早慶上理ICU」（早稲田大学・慶應義塾大学・上智大学・東京理科大学・国際基督",
+          "link": "https://news.yahoo.co.jp/articles/38a3d88cbeaed1f9c9fd680e4382f19f3239b34c?source=rss",
+          "publishedOn": "2025-03-09T10:10:00.000Z",
+          "wordCount": 1720,
+          "title": "【関東在住者に聞いた】「GMARCH・早慶上理ICU・日東駒専で優秀な学生が多いと思う大学」ランキング！　第2位は「慶應義塾大学」、1位は？(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108500-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/38ff2b3bc97826df668f9287736f8e815f0a6c5e?source=rss",
+          "author": null,
+          "description": "5年前や10年前……。少し前にインターネット上で話題になった投稿や動画を振り返って紹介する企画「昔のインターネット発掘！」。今回紹介するのは2023年7月にYouTubeに投稿された、長く放置されて",
+          "link": "https://news.yahoo.co.jp/articles/38ff2b3bc97826df668f9287736f8e815f0a6c5e?source=rss",
+          "publishedOn": "2025-03-09T10:00:18.000Z",
+          "wordCount": 1721,
+          "title": "長く放置されていたホンダ車が……　ホコリまみれだったとは思えないほどきれいになった姿に「素晴らしい仕事」「なんて美しいクルマ」(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000087-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3110d76ac2e4aab21076549b926200e36254851b?source=rss",
+          "author": null,
+          "description": "少し前にインターネット上で話題になった投稿や動画を振り返って紹介する企画「昔のインターネット発掘！」。今回取り上げるのは、2022年5月にTikTokに投稿された“あるカップルのビフォーアフター動画",
+          "link": "https://news.yahoo.co.jp/articles/3110d76ac2e4aab21076549b926200e36254851b?source=rss",
+          "publishedOn": "2025-03-09T10:00:12.000Z",
+          "wordCount": 1724,
+          "title": "「恩師ビックリするやろなぁ」　中学3年で付き合い始めた“同級生カップル”が10年後……　まさかの現在に反響(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000004-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b3e4e1c9d242b8f5a20a43fbe7c79940406c1762?source=rss",
+          "author": null,
+          "description": "私たちの生活に欠かせない水。中でもペットボトルのミネラルウォーターは、手軽に持ち運べるほか、非常時のそなえとしても便利です。さまざまな種類のミネラルウォーターがあるため、どれを買うのか迷うことも多い",
+          "link": "https://news.yahoo.co.jp/articles/b3e4e1c9d242b8f5a20a43fbe7c79940406c1762?source=rss",
+          "publishedOn": "2025-03-09T10:00:00.000Z",
+          "wordCount": 1746,
+          "title": "【関東在住者に聞いた】家に常備しておきたい「ペットボトルのミネラルウォーター」ランキング！　2位は「アサヒ飲料 おいしい水」、1位は？(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108239-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0d1aebb63ab9c883ad8de911db5885a18e41ab15?source=rss",
+          "author": null,
+          "description": "寒い季節にぴったりの「味噌煮込みうどん」は、愛知県を代表する郷土料理の一つ。濃厚でコクのある赤味噌ベースのスープと、硬めでコシのあるうどんが特徴です。土鍋で煮込まれるスタイルが多く、家庭料理としても",
+          "link": "https://news.yahoo.co.jp/articles/0d1aebb63ab9c883ad8de911db5885a18e41ab15?source=rss",
+          "publishedOn": "2025-03-09T09:50:00.000Z",
+          "wordCount": 1704,
+          "title": "「愛知県で人気の味噌煮込みうどん」ランキング！　2位は「長生うどん」、1位は？【2025年3月版】(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108402-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/764374a56ff5354070ff7406b4eb31d516dad79d?source=rss",
+          "author": null,
+          "description": "スタミナがつくものを食べたいと思ったときに「ステーキ」を思い浮かべるという人も多いのではないでしょうか。仕事で頑張った時や、記念の時などにステーキを食べるためにお店に行くということもありますよね。埼",
+          "link": "https://news.yahoo.co.jp/articles/764374a56ff5354070ff7406b4eb31d516dad79d?source=rss",
+          "publishedOn": "2025-03-09T09:40:00.000Z",
+          "wordCount": 1733,
+          "title": "「埼玉県のステーキの名店」！　あなたが好きなのはどこ？(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108586-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8d1cc5bba71d99578844aac142f36f74216cb74b?source=rss",
+          "author": null,
+          "description": "唐揚げやハンバーグ、エビフライなど、バリエーションが豊かな定食。今回は、奈良県でおすすめの定食を探している人に向けて、Googleマップ上で人気のお店を紹介します。\n\n　なおこのランキングは、Goo",
+          "link": "https://news.yahoo.co.jp/articles/8d1cc5bba71d99578844aac142f36f74216cb74b?source=rss",
+          "publishedOn": "2025-03-09T09:30:00.000Z",
+          "wordCount": 1721,
+          "title": "「奈良県で人気の定食」ランキング！　2位は出来立ての豆腐が楽しめる吉野町の「豆富茶屋 林」、1位は？【2025年3月版】(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108300-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/395a58ceaafbc416f9e269f85744c804e8b4196c?source=rss",
+          "author": null,
+          "description": "「うどん」と言われると、「うどん県」の愛称がある香川県のイメージが強いでしょう。しかし隣の徳島県にもご当地うどんが存在します。その一つが阿波市の「たらいうどん」。釜あげしたうどんを大きなたらいに入れ",
+          "link": "https://news.yahoo.co.jp/articles/395a58ceaafbc416f9e269f85744c804e8b4196c?source=rss",
+          "publishedOn": "2025-03-09T09:20:00.000Z",
+          "wordCount": 1731,
+          "title": "徳島県の「うどん」の名店！　あなたが一番好きな店はどこ？(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108593-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b75fccca3908953dac53458bc2f1c4f511181b2a?source=rss",
+          "author": null,
+          "description": "バッグやポーチなど普段使いできるアイテムが付録になることも多いムック本。今回はそんなムック本の中から、「財布」が付録の本を紹介します。大容量の長財布やコンパクトなミニ財布、カードがたっぷり入るじゃば",
+          "link": "https://news.yahoo.co.jp/articles/b75fccca3908953dac53458bc2f1c4f511181b2a?source=rss",
+          "publishedOn": "2025-03-09T09:17:00.000Z",
+          "wordCount": 1805,
+          "title": "「財布が付録のムック本」おすすめ6選！　デザイン性も使い勝手も◎なアイテムを紹介【2025年3月版】(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108159-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4b830189d89c11855069a78a479bbef10102b92b?source=rss",
+          "author": null,
+          "description": "「SalesNow」を展開するSalesNowは、日本最大級の企業データベース「SalesNow DB」において、1980年から1989年に設立された企業の従業員数の調査を行い、その結果をランキング",
+          "link": "https://news.yahoo.co.jp/articles/4b830189d89c11855069a78a479bbef10102b92b?source=rss",
+          "publishedOn": "2025-03-09T09:10:00.000Z",
+          "wordCount": 1734,
+          "title": "【1980年代創業企業版】「従業員数の多い企業」ランキング！　第2位は「東日本旅客鉄道」、1位は？(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108614-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a9e7b461ca1c02fa1f7d49223b5f985a0398e4ff?source=rss",
+          "author": null,
+          "description": "セレモニーで飛ばした大量の風船がとんでもないことになっている様子が「珍しい」「鳥肌」とX（Twitter）で話題です。投稿は記事執筆時点で520万回表示され、14万件のいいねを集めています。\n\n　写",
+          "link": "https://news.yahoo.co.jp/articles/a9e7b461ca1c02fa1f7d49223b5f985a0398e4ff?source=rss",
+          "publishedOn": "2025-03-09T09:00:12.000Z",
+          "wordCount": 1730,
+          "title": "「えらいこっちゃ」　セレモニーで大量の風船を飛ばしたら……　“とんでもない事態”が520万表示「ゾワゾワする」(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000050-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6cfc6d1be5b2218713add6d3fe5f4eba84ed5da0?source=rss",
+          "author": null,
+          "description": "日本で2番目に広い湖である霞ケ浦、そして利根川が流れる「茨城県」。古くからうなぎがとれたこともあり、県内にはうなぎ料理の名店が数多くあります。今回は「茨城県で人気のうなぎ」ランキングを紹介します。",
+          "link": "https://news.yahoo.co.jp/articles/6cfc6d1be5b2218713add6d3fe5f4eba84ed5da0?source=rss",
+          "publishedOn": "2025-03-09T09:00:00.000Z",
+          "wordCount": 1708,
+          "title": "「茨城県で人気のうなぎ」ランキング！　2位はふっくらとしたうなぎが評判の「うなぎ斎藤」、1位は？【2025年3月版】(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108142-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b1c00e84918a12e798637d652ac40b87c7e88286?source=rss",
+          "author": null,
+          "description": "ボリューム感やコスパが魅力の焼き鳥チェーン店「鳥貴族」。老若男女問わず人気ですが、関西と関東を中心に展開しているため、意外にも出店を果たしていない県が多く見られます。\n\n　そこで今回は、鳥貴族が次に",
+          "link": "https://news.yahoo.co.jp/articles/b1c00e84918a12e798637d652ac40b87c7e88286?source=rss",
+          "publishedOn": "2025-03-09T08:50:00.000Z",
+          "wordCount": 1723,
+          "title": "「次に鳥貴族ができると思う県」は？　3県を紹介！(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108297-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/537cdc22a149a6b489f395b55f9c024d8b8e62ed?source=rss",
+          "author": null,
+          "description": "全国の市町村名には、力強さを感じさせるものや荘厳な雰囲気を持つもの、さらには異国の言葉のように響くものなど、「かっこいい」と感じさせる名前が数多くあります。\n\n　そこでねとらぼでは、アンケートサイト",
+          "link": "https://news.yahoo.co.jp/articles/537cdc22a149a6b489f395b55f9c024d8b8e62ed?source=rss",
+          "publishedOn": "2025-03-09T08:40:00.000Z",
+          "wordCount": 1725,
+          "title": "【男性が選ぶ】「名前がかっこいい埼玉県の市町村」ランキング！　第2位は「富士見市」、1位は？(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108264-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/486c746d2ceb13509b7039a8d9e0ba471b0e5131?source=rss",
+          "author": null,
+          "description": "日本最大級のブランディング会社であるインターブランドジャパンでは、日本発のブランドを対象に、2023年10月1日〜2024年9月30日の期間でブランド価値に関する調査を実施し、その結果を「Best",
+          "link": "https://news.yahoo.co.jp/articles/486c746d2ceb13509b7039a8d9e0ba471b0e5131?source=rss",
+          "publishedOn": "2025-03-09T08:30:00.000Z",
+          "wordCount": 1773,
+          "title": "「日本企業のブランド価値」ランキング！　2位は「Honda（本田技研工業）」、1位は？(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108439-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/43ee694e8b9fbfb6db883aba5d3cd3463e32db6f?source=rss",
+          "author": null,
+          "description": "スープと麺にトッピングを乗せた、気軽に楽しめる麺料理がラーメン。こだわりを持ったオリジナルの一杯を提供しているお店も多く、ラーメンの食べ歩きを趣味とするファンを数多く生み出しています。今回は茨城県で",
+          "link": "https://news.yahoo.co.jp/articles/43ee694e8b9fbfb6db883aba5d3cd3463e32db6f?source=rss",
+          "publishedOn": "2025-03-09T08:20:00.000Z",
+          "wordCount": 1720,
+          "title": "「茨城県で人気のラーメン店」ランキング！　2位はつくば市にある行列の絶えない人気店「芛堂寺」、1位は？【2025年3月版】(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108144-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/918e824f7721e9e284a62b01c363089c271c3811?source=rss",
+          "author": null,
+          "description": "都心からアクセスしやすい距離感や豊かな自然、おいしい料理が味わえるなど多種多様な魅力を備えている「茨城県」。44の自治体が存在しますが、中にはかっこいいと感じさせる市町村名もありますよね。\n\n　そこ",
+          "link": "https://news.yahoo.co.jp/articles/918e824f7721e9e284a62b01c363089c271c3811?source=rss",
+          "publishedOn": "2025-03-09T08:10:00.000Z",
+          "wordCount": 1719,
+          "title": "【関東在住者に聞いた】「名前がかっこいい茨城県の市町村」ランキング！　2位は「龍ケ崎市」、1位は？(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108115-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e6b3628df52afa2113440ca543e4615c5e4121d8?source=rss",
+          "author": null,
+          "description": "仕事で外出している間に小学6年生の息子からLINEが来た母。帰宅して目に飛び込んできた“まさかの光景”がThreadsで話題です。投稿は、記事執筆時点で8万3000回表示されています。\n\n　写真を投",
+          "link": "https://news.yahoo.co.jp/articles/e6b3628df52afa2113440ca543e4615c5e4121d8?source=rss",
+          "publishedOn": "2025-03-09T08:00:11.000Z",
+          "wordCount": 1729,
+          "title": "小6息子「トマトと玉ねぎ使っていい？」とLINE→OKしたママが帰宅すると……　「キャーッ」“まさかの光景”に「天才か!!」(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-00000030-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e904625cc0b473c8d28a8d58c49f7be49cd394eb?source=rss",
+          "author": null,
+          "description": "ショッピングや映画館などが入居する「イオンモール」。季節に合わせたイベントなどを行っていることもあるので、休日のお出かけ先としてもぴったりですよね。そこで今回は、「東海地方で人気のイオンモール」ラン",
+          "link": "https://news.yahoo.co.jp/articles/e904625cc0b473c8d28a8d58c49f7be49cd394eb?source=rss",
+          "publishedOn": "2025-03-09T08:00:00.000Z",
+          "wordCount": 1724,
+          "title": "「東海地方で人気のイオンモール」ランキング！　2位は常滑市にあるイオンシネマ併設の「イオンモール常滑」、1位は？【2025年3月版】(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108146-it_nlab-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/f073f4bbe29183a5ee92d0d412d33ab8da3d75fe?source=rss",
+          "author": null,
+          "description": "日本列島のほぼ中央に位置している「兵庫県」には、人気の高い神戸市をはじめさまざまな市町が存在します。現在、県内には29の市と12の町があり、中には、歴史を感じさせる地名の市町も存在しています。",
+          "link": "https://news.yahoo.co.jp/articles/f073f4bbe29183a5ee92d0d412d33ab8da3d75fe?source=rss",
+          "publishedOn": "2025-03-09T07:50:00.000Z",
+          "wordCount": 1717,
+          "title": "名前がかっこいいと思う「兵庫県の地名」ランキング！　2位は「宝塚市」、1位は？(ねとらぼ)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20250309-10108268-it_nlab-000-1-view.jpg?exp=10800"
         }
       ]
     },
     {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
+      "title": "二階堂ドットコム",
+      "feedUrl": "http://www.nikaidou.com/feed/",
+      "siteUrl": "https://www.nikaidou.com",
       "articles": [
         {
-          "id": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-44/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re asking if changes to best practises over the last year have negatively impacted the web. Is it all downhill from here? Drew McLellan talks to expert Chris Ferdinandi to find out.",
-          "link": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-44/",
-          "publishedOn": "2021-11-30T14:00:00.000Z",
-          "wordCount": 8722,
-          "title": "Smashing Podcast Episode 44 With Chris Ferdinandi: Is The Web Dead?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fa0481fb-1555-40f1-94c2-014b5553f45f/smashing-podcast-episode-44.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.nikaidou.com/?p=183036",
+          "author": "二階堂",
+          "description": "貧乏でもたくましい奴、頑張れる奴で生きていこう！ 弱者は田舎に行け！\nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/183036",
+          "publishedOn": "2025-03-09T10:30:05.000Z",
+          "wordCount": 1389,
+          "title": "ゴミは排除　強いモノで生きていこう",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s welcome December with some new wallpapers! Designed by artists and designers from across the globe, they are available with and without a calendar for the month. Enjoy!",
-          "link": "https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/",
-          "publishedOn": "2021-11-30T09:45:00.000Z",
-          "wordCount": 2814,
-          "title": "It’s That Time Of The Year (December 2021 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9b96c8c2-9305-4a64-aa40-cf22662ea698/dec-21-winter-holidays-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
+          "id": "https://www.nikaidou.com/?p=183034",
+          "author": "二階堂",
+          "description": "ホントはボロボロで、きちんとするなら三千億ですからwww 農林中金で二兆円もバク ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/183034",
+          "publishedOn": "2025-03-09T09:02:40.000Z",
+          "wordCount": 1391,
+          "title": "俺前に書いたろ",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/",
-          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
-          "description": "One of Jhey’s main mantras is to make learning fun.  In this article, he shows you ways to level up your skills by bringing your ideas to life, and not forgetting that [you can be playful with code](https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/). With that mindset, every idea is bound to become an opportunity to try something new.",
-          "link": "https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/",
-          "publishedOn": "2021-11-29T12:30:00.000Z",
-          "wordCount": 3237,
-          "title": "3D CSS Flippy Snaps With React And GreenSock",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a865f227-d5a1-4a63-a889-288a84fa2bce/3d-css-flippy-snaps-react-greensock.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.nikaidou.com/?p=183026",
+          "author": "二階堂",
+          "description": "秘書に復帰したら忙しいな https://www.nomura-re-hd.co ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/183026",
+          "publishedOn": "2025-03-09T03:55:11.000Z",
+          "wordCount": 1365,
+          "title": "野村不動産の社長より依頼",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/",
-          "author": "hello@smashingmagazine.com (Nirmalya Ghosh)",
-          "description": "In this article, Nirmalya discusses some of the complex problems that he faced while building and maintaining large Next.js applications. He always explains how these problems can be solved by using various tools.",
-          "link": "https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/",
-          "publishedOn": "2021-11-26T12:30:00.000Z",
-          "wordCount": 2622,
-          "title": "How To Maintain A Large Next.js Application",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d36d3a50-0f3f-402e-9ceb-8164b41065bc/maintain-large-nextjs-application.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.nikaidou.com/?p=183025",
+          "author": "二階堂",
+          "description": "glory-official.jp/\nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/183025",
+          "publishedOn": "2025-03-09T03:25:22.000Z",
+          "wordCount": 1367,
+          "title": "朝鮮人が警察沙汰",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Instead of spending your coffee break scrolling through your social feeds, how about a lovely little website instead? We came across some fantastic ones that are just too good not to be shared. But be warned, your break might take a bit longer than intended.",
-          "link": "https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/",
-          "publishedOn": "2021-11-24T12:00:00.000Z",
-          "wordCount": 4228,
-          "title": "A Showcase Of Lovely Little Websites",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/5a0a3a89-ba5a-40a8-af80-f8db0554af37/radiooooo-opt.png",
-            "length": "0",
-            "type": "image/png"
-          }
+          "id": "https://www.nikaidou.com/?p=183021",
+          "author": "二階堂",
+          "description": "maps.app.goo.gl/ubJASpmqn8jZyJGQ7?g_st=i ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/183021",
+          "publishedOn": "2025-03-09T03:21:58.000Z",
+          "wordCount": 1446,
+          "title": "プノンペン市内で作戦行動実施",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/",
-          "author": "hello@smashingmagazine.com (John C Barstow)",
-          "description": "With a little CSS, we can adapt our web designs to be more accommodating for people with dyslexia. In this article, we’ll explore those techniques by adding a dyslexia-friendly mode to an existing design.",
-          "link": "https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/",
-          "publishedOn": "2021-11-23T10:00:00.000Z",
-          "wordCount": 2745,
-          "title": "Adding A Dyslexia-Friendly Mode To A Website",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1fb4e46-6f0a-4631-a04c-d42376eddc82/dyslexia-friendly-mode-website.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.nikaidou.com/?p=183019",
+          "author": "二階堂",
+          "description": "完食しました。\nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/183019",
+          "publishedOn": "2025-03-08T14:48:12.000Z",
+          "wordCount": 1393,
+          "title": "前は半分も食べれなかったのに",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/",
-          "author": "hello@smashingmagazine.com (Iris Lješnjanin)",
-          "description": "What’s the state of CSS, Vue.js and Next.js? What are new, smart interface design patterns we could use? Let’s figure it out. With our [online workshops on UX, front-end and design](https://smashingconf.com/online-workshops).",
-          "link": "https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/",
-          "publishedOn": "2021-11-22T16:00:00.000Z",
-          "wordCount": 1013,
-          "title": "Smashing Workshops: Winter 2021",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d2659d54-48e0-40d0-9fea-07c199eee87d/sanfran-2022.png",
-            "length": "0",
-            "type": "image/png"
-          }
+          "id": "https://www.nikaidou.com/?p=183018",
+          "author": "二階堂",
+          "description": "やはりトランプの圧力。 リベラルよりも尹大統領の方がマシという考えだろうな。、い ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/183018",
+          "publishedOn": "2025-03-08T09:53:27.000Z",
+          "wordCount": 1372,
+          "title": "南朝鮮大統領釈放",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/",
-          "author": "hello@smashingmagazine.com (Dan Shappir)",
-          "description": "Implementing a performance culture is very important. In this article, Dan Shappir shares which actions and processes the Wix team put in place in order to achieve dramatic improvements in the performance of websites built and hosted on their platform.",
-          "link": "https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/",
-          "publishedOn": "2021-11-22T10:30:00.000Z",
-          "wordCount": 4743,
-          "title": "Improving The Performance Of Wix Websites (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/253b5a80-a208-4057-95b0-60762c922d07/improving-performance-wix-websites-case-study.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.nikaidou.com/?p=183017",
+          "author": "二階堂",
+          "description": "このチャンネルよく見てる。\nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/183017",
+          "publishedOn": "2025-03-08T02:37:55.000Z",
+          "wordCount": 1369,
+          "title": "店より出張買取の方が高額査定な理由　【まーさんガレージライブ切り抜き】",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/",
-          "author": "hello@smashingmagazine.com (Sam Poder)",
-          "description": "Hosting with a wildcard subdomain enables your users to visit your site on any subdomain of your domain (*.example.com), and as you can imagine, we can use this to create unique user experiences which we’ll be exploring in this article through a Next.js lens.",
-          "link": "https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/",
-          "publishedOn": "2021-11-19T10:30:00.000Z",
-          "wordCount": 2192,
-          "title": "Next.js Wildcard Subdomains",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2b24747b-6f11-4588-a119-16eaf38bc933/nextjs-wildcard-subdomains.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.nikaidou.com/?p=183015",
+          "author": "二階堂",
+          "description": "そういうのを調べるのが公安の仕事です。\nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/183015",
+          "publishedOn": "2025-03-07T23:09:49.000Z",
+          "wordCount": 1386,
+          "title": "仕掛けは誰だろうね",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/guide-modern-css-colors/",
-          "author": "hello@smashingmagazine.com (Michelle Barker)",
-          "description": "In this article, we’ll take a look at the best ways to handle colors in CSS today, some tips for using them in a design system, and what we can expect from our colors in the not-too-distant future.",
-          "link": "https://smashingmagazine.com/2021/11/guide-modern-css-colors/",
-          "publishedOn": "2021-11-17T16:00:00.000Z",
-          "wordCount": 3472,
-          "title": "A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b424cd2e-1e44-4ca2-8506-4e45a5bdb570/guide-modern-css-colors.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.nikaidou.com/?p=183013",
+          "author": "二階堂",
+          "description": "さぁて、言論統制が始まったから俺がまたやるか！ 俺は何年でも待ってる。 地味な仕 ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/183013",
+          "publishedOn": "2025-03-07T14:40:48.000Z",
+          "wordCount": 1364,
+          "title": "ネットラジオ復活するか",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/touch-design-pre-release/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Meet “Touch Design for Mobile Interfaces”, our brand-new guide on designing for mobile with proven, universal, human-centric standards. 400 pages. Shipping starting in early January.",
-          "link": "https://smashingmagazine.com/2021/11/touch-design-pre-release/",
-          "publishedOn": "2021-11-16T16:00:00.000Z",
-          "wordCount": 2170,
-          "title": "Meet Touch Design For Mobile Interfaces, A New Smashing Book By Steven Hoober",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b41ae541-7618-44f2-81cd-cc681c64d0d0/touch-design-for-mobile-interfaces-header.png",
-            "length": "0",
-            "type": "image/png"
-          }
+          "id": "https://www.nikaidou.com/?p=183012",
+          "author": "二階堂",
+          "description": "調整ルームで八百長の話してるバカいるんだが。しかもかなり。 ホントバカだよね。ま ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/183012",
+          "publishedOn": "2025-03-07T14:20:18.000Z",
+          "wordCount": 1362,
+          "title": "金沢競馬",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/",
-          "author": "hello@smashingmagazine.com (Louis Lazaris)",
-          "description": "What’s your favorite command-line tool? In this post, Louis Lazaris shares a collection of relevant command-line apps and utilities that he has personally come across in the past few years. If there’s a useful one that hasn’t been mentioned and one you use regularly, please do share it in the comments.",
-          "link": "https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/",
-          "publishedOn": "2021-11-15T13:00:00.000Z",
-          "wordCount": 2123,
-          "title": "Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a2d3081a-5a36-4763-9b94-13bf7d1cb5d6/powerful-terminal-commandline-tools-modern-web-development.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.nikaidou.com/?p=183011",
+          "author": "二階堂",
+          "description": "群馬・大泉のブラジルも苦境に立たされつつ、ただ彼等は既に自営で派遣や運輸、販売な ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/183011",
+          "publishedOn": "2025-03-07T14:18:09.000Z",
+          "wordCount": 1363,
+          "title": "日本人たくましくなれよ～群馬、スバル工場あたり",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/useful-react-hooks/",
-          "author": "hello@smashingmagazine.com (Ifeanyi Dike)",
-          "description": "The React team introduced several hooks in React 16.8 which you can use from third-party providers in your application, or even create your own custom hook. In this tutorial, we’ll take a look at some of the most useful hooks in React and how to use them.",
-          "link": "https://smashingmagazine.com/2021/11/useful-react-hooks/",
-          "publishedOn": "2021-11-12T10:00:00.000Z",
-          "wordCount": 10255,
-          "title": "Useful React Hooks That You Can Use In Your Projects",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ad5f8d5b-6da6-4441-a6f7-466c79e7fb0d/useful-react-hooks.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.nikaidou.com/?p=183008",
+          "author": "二階堂",
+          "description": "（2025春シーズン 第2回　） きょうですべてがくずれさるとしても それでもひ ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/183008",
+          "publishedOn": "2025-03-07T12:26:08.000Z",
+          "wordCount": 1424,
+          "title": "【血統師ＳＥＶＥＮのインテリジェンス競馬＃259】",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/",
-          "author": "hello@smashingmagazine.com (Adam Fard)",
-          "description": "Dribbbleshots just might be the hotbed of questionable dashboards. Striking visuals, little context, and no research: all recipes for mediocrity. Mediocrity won’t do. We’ll pursue greatness. And in that pursuit, we’ll cover research, decluttering, and data visualization.",
-          "link": "https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/",
-          "publishedOn": "2021-11-11T14:00:00.000Z",
-          "wordCount": 4289,
-          "title": "From Good To Great In Dashboard Design: Research, Decluttering And Data Viz",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/835f0cba-e214-437a-a025-e69ba7691997/dashboard-design-research-decluttering-data-viz.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.nikaidou.com/?p=182986",
+          "author": "二階堂",
+          "description": "フェントステープにオキシコンチンで仕事ができる！！！普通なら悶絶して何もやりよう ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/182986",
+          "publishedOn": "2025-03-07T12:25:01.000Z",
+          "wordCount": 1356,
+          "title": "さすが強薬の魔術師",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/localizing-your-nextjs-app/",
-          "author": "hello@smashingmagazine.com (Átila Fassina)",
-          "description": "Internationalized routing is not exactly a new feature on Next.js. In this article, we are not only checking what we get from this feature, but also how to leverage such functionalities to achieve the best user experience and a smooth developer experience as well.",
-          "link": "https://smashingmagazine.com/2021/11/localizing-your-nextjs-app/",
-          "publishedOn": "2021-11-09T13:00:00.000Z",
-          "wordCount": 1902,
-          "title": "Localizing Your Next.js App",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/12e7620f-0e7b-4b95-a1b6-cd2f25ccac52/localizing-your-nextjs-app.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.nikaidou.com/?p=183005",
+          "author": "二階堂",
+          "description": "自虐的に過ぎるかな笑 まぁたいていウチなんか見ても気分悪くなるばかりだろうね。  ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/183005",
+          "publishedOn": "2025-03-07T10:24:58.000Z",
+          "wordCount": 1384,
+          "title": "人の悪口25年、誹謗中傷25年は二階堂ドットコムだけ！",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/transforming-optimizing-images-videos-wordpress-website/",
-          "author": "hello@smashingmagazine.com (Leonardo Losoviz)",
-          "description": "In this article, Leonardo Losoviz explains how Cloudinary’s integration can be used with WordPress to produce and deliver optimal digital experiences.",
-          "link": "https://smashingmagazine.com/2021/11/transforming-optimizing-images-videos-wordpress-website/",
-          "publishedOn": "2021-11-09T09:30:00.000Z",
-          "wordCount": 2425,
-          "title": "Automatically Transforming And Optimizing Images And Videos On Your WordPress Website",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8aaa9d52-375d-4e64-bdaa-151ef40a3f3c/transforming-optimizing-images-videos-wordpress-website.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.nikaidou.com/?p=183002",
+          "author": "二階堂",
+          "description": "あーあーニポン低国民 バカだから左翼に騙される〜\nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/183002",
+          "publishedOn": "2025-03-06T23:18:45.000Z",
+          "wordCount": 1396,
+          "title": "バカな日本人に教えてやるよ",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/",
-          "author": "hello@smashingmagazine.com (Ilya Grigorik)",
-          "description": "A great commerce experience is not a Lighthouse score or a set of Core Web Vitals figures (although both are important inputs), but it’s also a trilemma that carefully balances competing needs of delivering a great customer experience, dynamic storefront capabilities and long-term business objectives.",
-          "link": "https://smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/",
-          "publishedOn": "2021-11-08T14:30:00.000Z",
-          "wordCount": 1527,
-          "title": "Meet Hydrogen: A React Framework For Dynamic, Contextual And Personalized E-Commerce",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ee33395f-684a-40e5-bf72-56d9e9e4d975/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.nikaidou.com/?p=183000",
+          "author": "二階堂",
+          "description": "0521-9aee13bff29cc850e3586565293d08a0.pd ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/183000",
+          "publishedOn": "2025-03-06T22:47:14.000Z",
+          "wordCount": 1374,
+          "title": "虫の買った土地",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/concept-testing-part-of-product-design/",
-          "author": "hello@smashingmagazine.com (Victor Yocco)",
-          "description": "Concept testing ideas before moving into a detailed design is good UX practice. In this article, Victor Yocco presents details on how and when to engage in concept testing, as well as case studies providing details on the insights gained in two very different settings.",
-          "link": "https://smashingmagazine.com/2021/11/concept-testing-part-of-product-design/",
-          "publishedOn": "2021-11-05T11:00:00.000Z",
-          "wordCount": 6182,
-          "title": "The Value Of Concept Testing As Part Of Product Design",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/ca39dbc3-101c-4973-9dce-debb1ab283ff/concept-testing-part-of-product-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.nikaidou.com/?p=182999",
+          "author": "二階堂",
+          "description": "電通なんだよねXの管理やってるのって。インスタも多分そうだろ。電通の下請けだよ。 ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/182999",
+          "publishedOn": "2025-03-06T22:23:21.000Z",
+          "wordCount": 1359,
+          "title": "SNS規制やるんだって？俺は大歓迎よ！",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/",
-          "author": "hello@smashingmagazine.com (Drew McLellan)",
-          "description": "In this episode, we’re talking about Astro. Will this modern static site builder launch you into the stratosphere? Drew McLellan talks to developer Matthew Phillips to find out.",
-          "link": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/",
-          "publishedOn": "2021-11-04T18:00:00.000Z",
-          "wordCount": 5848,
-          "title": "Smashing Podcast Episode 43 With Matthew Phillips: What Is Astro?",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/475de692-46fc-4058-af10-3736770698d5/smashing-podcast-episode-43.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.nikaidou.com/?p=182998",
+          "author": "二階堂",
+          "description": "半額だったので。。。 https://amzn.to/3Do3ucl\nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/182998",
+          "publishedOn": "2025-03-06T15:19:52.000Z",
+          "wordCount": 1369,
+          "title": "つい買ってしまった",
+          "imageUrl": null
         },
         {
-          "id": "https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/",
-          "author": "hello@smashingmagazine.com (David Atanda)",
-          "description": "Within the last decade, technologies like GraphQL have changed how we build web apps and how they communicate with each other. GraphQL provides certain benefits over REST APIs — let’s find out what they are.",
-          "link": "https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/",
-          "publishedOn": "2021-11-04T11:30:00.000Z",
-          "wordCount": 3382,
-          "title": "GraphQL On The Front-End (React And Apollo)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bb584488-c16f-4409-a992-993ce92d4b51/graphql-frontend-react-apollo.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/",
-          "author": "hello@smashingmagazine.com (Ikeh Akinyemi)",
-          "description": "Serverless UI is simply a free, open-source command-line utility for quickly building and deploying serverless applications on the AWS platform. In this article, we will learn and cover everything needed on using Serverless UI to deploy our projects or serverless applications to cloud services providers.",
-          "link": "https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/",
-          "publishedOn": "2021-11-03T11:30:00.000Z",
-          "wordCount": 3605,
-          "title": "A Deep Dive Into Serverless UI With TypeScript",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/aff46dfe-164d-4bf7-8e14-057470001b41/deep-dive-into-serverless-ui-typescript.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          }
+          "id": "https://www.nikaidou.com/?p=182996",
+          "author": "nikaidoutest",
+          "description": "ちょっとアークエンジェルなスーツ作りたいんだが、生地誰が持ってるかな。。。？ 三 ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/182996",
+          "publishedOn": "2025-03-06T14:49:32.000Z",
+          "wordCount": 1389,
+          "title": "この白いスーツどこで作れるかな",
+          "imageUrl": null
         }
       ]
     },
     {
-      "title": "freeCodeCamp.org",
-      "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news",
+      "title": "痛いニュース(ﾉ∀`)",
+      "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
+      "siteUrl": "https://itainews.com/",
       "articles": [
         {
-          "id": "61a5f9680c0c7407b2b3e607",
-          "author": null,
-          "description": "In general, a headphone jack and a pair of headphones improve the sound from your PC. You'll be able to hear things more clearly, without disturbing other around you.  But sometimes, setting them up is difficult. Or they might stop working entirely. This could be due to outdated drivers, or",
-          "link": "https://www.freecodecamp.org/news/headphone-jack-not-working-in-windows-10-how-to-fix-headphones-on-pc/",
-          "publishedOn": "2021-12-01T09:49:48.000Z",
-          "wordCount": 743,
-          "title": "Headphone Jack Not Working in Windows 10 - How to Fix Headphones on PC"
+          "id": "https://itainews.com/archives/2045846.html",
+          "author": "damono3856",
+          "description": "1 名前：七波羅探題 ★：2025/03/09(日) 09:01:59.34 ID:QZm+OSjO9.net\n\n\n\n\n\n\n\n「誰にも気づかれずに、孤独焼死」限界集落の「限界」に直面する山村：朝日新聞 https://t.co/JOVo9FlgoT— アサカラ/昔の林業写真帳 (@asakarapan00) March 9, 2025  \n\n\n\n\n\n\n朝日新聞\nhttps...",
+          "link": "https://itainews.com/archives/2045846.html",
+          "publishedOn": "2025-03-09T12:03:51.000Z",
+          "wordCount": 2500,
+          "title": "【高知】「誰にも気づかれずに、孤独焼死」限界集落の「限界」に直面する山村",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/e/8e5fa814-s.png"
         },
         {
-          "id": "61783ffa33422e07df364d2c",
-          "author": null,
-          "description": "For six years in a row, Rust has been voted the most loved programming language by Stack Overflow. So if you're ready to learn this popular programming language, this course will introduce you to Rust so you can start using it in your projects. You will be working entirely within",
-          "link": "https://www.freecodecamp.org/news/rust-in-replit/",
-          "publishedOn": "2021-11-30T14:35:18.000Z",
-          "wordCount": 5418,
-          "title": "Learn Rust Programming Course – Interactive Rust Language Tutorial on Repl.it"
+          "id": "https://itainews.com/archives/2045844.html",
+          "author": "damono3856",
+          "description": "1 名前：牛乳トースト ★：2025/03/08(土) 23:18:38.77 ID:o5HYa5hN9.net\n\n\n\n\n\n\n\n《FNNプライムオンライン》わずかな量でも感染…急増するノロウイルスによる食中毒「アルコール消毒は効果薄」対策の難しさ浮き彫り #ノロウイルス #食中毒 https://t.co/yO6Pe7L2my— ペ...",
+          "link": "https://itainews.com/archives/2045844.html",
+          "publishedOn": "2025-03-09T11:03:38.000Z",
+          "wordCount": 2612,
+          "title": "【感染症】「わずかな量でも感染…」急増するノロウイルスによる食中毒「アルコール消毒は効果薄」対策の難しさ浮き彫り",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/9/890fde3c-s.png"
         },
         {
-          "id": "61a0f98125888a07c3e1bfbc",
-          "author": null,
-          "description": "Everyone should learn three skills that can help them make money in their life. This means that you won't have to rely on one skill to make money, and it gives you a chance to make a side income, too. The value you can add at your job or to",
-          "link": "https://www.freecodecamp.org/news/5-valuable-skills-developers-should-learn/",
-          "publishedOn": "2021-11-30T01:12:15.000Z",
-          "wordCount": 1098,
-          "title": "5 Valuable Skills Developers Should Learn in 2022"
+          "id": "https://itainews.com/archives/2045843.html",
+          "author": "damono3856",
+          "description": "1 名前：蚤の市 ★：2025/03/09(日) 07:45:56.56 ID:NKd25+M39.net\n\n\n\n\n\n\n\n女性働きやすさ、日本ワースト3　英誌、2年連続で https://t.co/vEJUjKRJMp— 47NEWS (@47news_official) March 8, 2025  \n\n\n\n\n\n\n　【ロンドン共同】英誌エコノミストは8日までに、先進国を中心...",
+          "link": "https://itainews.com/archives/2045843.html",
+          "publishedOn": "2025-03-09T10:01:04.000Z",
+          "wordCount": 3808,
+          "title": "女性働きやすさ、日本ワースト3　英誌、2年連続で",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/1/019b2689-s.png"
         },
         {
-          "id": "61a39f3025888a07c3e1cf08",
-          "author": null,
-          "description": "How you train for your career is one of the most consequential decisions you'll ever make. But it's hard to narrow down your options for a career in software development or IT. Medicine is easy: pick a medical school and apply. But programming?  Will what you learn in a four",
-          "link": "https://www.freecodecamp.org/news/types-of-software-development-training/",
-          "publishedOn": "2021-11-29T21:06:01.000Z",
-          "wordCount": 2285,
-          "title": "Types of Software Development Training – A Data Analysis of IT Career Training Tool Efficacy"
+          "id": "https://itainews.com/archives/2045848.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2025/03/09(日) 10:37:06.12 ID:kFbFjXE19.net\n\n\n\n\n\n\n\n深刻です😨「学生バイトより稼げない」国産アサリが消滅の危機　産地偽装問題から3年　新たな偽装もhttps://t.co/A2tCa9kn2m— れいにゃ@未開封のCDボックスを聴かねば🙃 (@reinya17) March 9, 202...",
+          "link": "https://itainews.com/archives/2045848.html",
+          "publishedOn": "2025-03-09T09:03:26.000Z",
+          "wordCount": 3142,
+          "title": "「年収は6分の1」「学生バイトより稼げない」国産アサリが消滅の危機　産地偽装問題から3年　新たな偽装も",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/5/255e6a0b-s.png"
         },
         {
-          "id": "60c08938d3126007592d56f5",
-          "author": null,
-          "description": "Many software applications need to exchange data between a client and server.  For a long time, XML was the preferred data format when it came to information exchange between the two points. Then in early 2000, JSON was introduced as an alternate data format for information exchange. In this article,",
-          "link": "https://www.freecodecamp.org/news/what-is-json-a-json-file-example/",
-          "publishedOn": "2021-11-29T19:16:16.000Z",
-          "wordCount": 1544,
-          "title": "JSON for Beginners – JavaScript Object Notation Explained in Plain English"
+          "id": "https://itainews.com/archives/2045837.html",
+          "author": "dqnplus",
+          "description": "1 ：muffin ★：2025/03/08(土) 16:54:18.85 ID:eT0DfOcY9.net\n\n\n\n\n\n\n\n\n\n食事に行った際、男性にありがちな注文の仕方が「本当に嫌い」だと語った田中みな実。食事後のある行動についても力説する。https://t.co/VrTyiJgzMX— Sirabee／しらべぇ【公式】 (@sirabee_news)...",
+          "link": "https://itainews.com/archives/2045837.html",
+          "publishedOn": "2025-03-09T08:01:30.000Z",
+          "wordCount": 3398,
+          "title": "田中みな実、飲食店で「一番嫌い」な注文の仕方明かす「イキって大盛り頼んで…『食えねえ』って言う人」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/c/8c7368c8-s.png"
         },
         {
-          "id": "61a0dae325888a07c3e1bee6",
-          "author": null,
-          "description": "These 7 tricks and tips will take you from 50% to 90% accuracy for your image recognition models in literally minutes. So, you have gathered a dataset, built a neural network, and trained your model. But despite the hours (and sometimes days) of work you've invested to create the model,",
-          "link": "https://www.freecodecamp.org/news/improve-image-recognition-model-accuracy-with-these-hacks/",
-          "publishedOn": "2021-11-29T17:09:30.000Z",
-          "wordCount": 1153,
-          "title": "How to Improve the Accuracy of Your Image Recognition Models"
+          "id": "https://itainews.com/archives/2045836.html",
+          "author": "dqnplus",
+          "description": "1 ：♪♪♪ ★：2025/03/08(土) 17:30:55.06 ID:VOg43Wey9.net\n\n\n\n\n\n\n\n\n\n昭和に常識だった「ライスをフォークの背にのせる食べ方」は正しい？　今さら聞けない食のマナー https://t.co/4dpXoxNa43#マナー #フォーク— Hint-Pot（ヒントポット） (@Hint_Pot) March 8, 202...",
+          "link": "https://itainews.com/archives/2045836.html",
+          "publishedOn": "2025-03-09T07:01:27.000Z",
+          "wordCount": 4229,
+          "title": "昭和に常識だった「ライスをフォークの背にのせる食べ方」は正しい？　今さら聞けない食のマナー",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/e/2e6a4aed-s.png"
         },
         {
-          "id": "61a3882925888a07c3e1ce6d",
-          "author": null,
-          "description": "When you're programming, you'll often need to switch between data types.  The ability to convert one data type to another gives you great flexibility when working with information.  There are different built-in ways to convert, or cast, types in the Python programming language.  In this article, you'll learn how to",
-          "link": "https://www.freecodecamp.org/news/python-convert-string-to-int-how-to-cast-a-string-in-python/",
-          "publishedOn": "2021-11-29T16:47:01.000Z",
-          "wordCount": 1030,
-          "title": "Python Convert String to Int – How to Cast a String in Python"
+          "id": "https://itainews.com/archives/2045841.html",
+          "author": "dqnplus",
+          "description": "1 ：名無しさん＠涙目です。：2025/03/09(日) 06:51:12.45 ID:+MJhDC/80●.net\n\n\n\n\n\n\n\n\n\n「帰ってくるのはウルトラマンと蓮舫さんだけ。3分しか戦えない」国民民主・榛葉氏が蓮舫氏の参院選出馬に皮肉　 https://t.co/NM2OxcwQM2 御党にもですね、去る３月４日にですね・...",
+          "link": "https://itainews.com/archives/2045841.html",
+          "publishedOn": "2025-03-09T06:31:51.000Z",
+          "wordCount": 2969,
+          "title": "榛葉幹事長「帰ってきた蓮舫ってなんだよ…3分しか戦えないだろ」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/d/4dbab4af-s.png"
         },
         {
-          "id": "61924f5811d3cb08287a6648",
-          "author": null,
-          "description": "On January 10, Class Central is launching two new bootcamps that are free, remote, and open to all.  You’ll complete freeCodeCamp’s JavaScript or Responsive Web Design certification, with weekly live streams, projects, and a friendly group of learners worldwide. Free Bootcamp Based on the freeCodeCamp CurriculumHi everyone, I’",
-          "link": "https://www.freecodecamp.org/news/new-free-bootcamps-based-on-freecodecamp-learn-javascript-webdev-with-weekly-live-streams/",
-          "publishedOn": "2021-11-29T15:55:00.000Z",
-          "wordCount": 1395,
-          "title": "New Free Bootcamps Based on freeCodeCamp – Learn JavaScript &amp; Web Development with Weekly Live Streams"
+          "id": "https://itainews.com/archives/2045830.html",
+          "author": "dqnplus",
+          "description": "1 ：ネギうどん ★：2025/03/08(土) 12:52:38.40 ID:y8KUxMuz9.net\n\n\n\n\n\n\n\n\n\nバスの中で、降車ボタン押さずに降ろせと怒る乗客が。運転手さんが「降車ボタンを押してくださいね」と言ったら「お前嫌味ったらしい言い方すんな！」と絡み始めたあんまりなのでつい「うるさ...",
+          "link": "https://itainews.com/archives/2045830.html",
+          "publishedOn": "2025-03-09T06:01:17.000Z",
+          "wordCount": 3134,
+          "title": "人気声優　バスで「ボタン押さずに降ろせと怒る乗客」に遭遇　「うるさいから降りて」と注意も「良くなかった」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/3/733cb4a1-s.png"
         },
         {
-          "id": "6140e027852f4307d372d933",
-          "author": null,
-          "description": "NoSQL Databases can sometimes seem confusing and overwhelming, partly because of their flexibility. This is why we have put together a 3-hour video course to help you understand exactly what a NoSQL Database is, as well as the different types available to you.  By the end of this course, you",
-          "link": "https://www.freecodecamp.org/news/learn-nosql-in-3-hours/",
-          "publishedOn": "2021-11-29T15:47:00.000Z",
-          "wordCount": 765,
-          "title": "Learn About NoSQL Databases in This 3-hour Course"
+          "id": "https://itainews.com/archives/2045838.html",
+          "author": "dqnplus",
+          "description": "1 ：名無しさん＠涙目です。：2025/03/08(土) 17:20:01.96 ID:AMhvZ1h80●.net\n\n\n\n\n\n\n\n\n\n日本で警察が拳銃向けてるの初めて見た pic.twitter.com/0NbU8xBOQ7— 手を繋げない人間 (@nohandhuman) March 8, 2025 \n\n\n\n\n\n\n\n\n\n\n画像\nhttps://i.imgur.com/qsUSJSW.jpeg\n\n\n\n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2045838.html",
+          "publishedOn": "2025-03-09T05:31:55.000Z",
+          "wordCount": 3224,
+          "title": "日本の警察が　拳銃向けてるの初めて見た😳（画像あり）",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/9/19f03c36-s.png"
         },
         {
-          "id": "61a4b12225888a07c3e1d240",
-          "author": null,
-          "description": "Spell check in Microsoft Word and other Word Processing apps is a powerful feature. With spell check, you don’t have to worry too about making small grammatical and typographical errors, because the program will point them out for you in real-time as you type.  But sometimes, the spell check",
-          "link": "https://www.freecodecamp.org/news/spell-check-not-working-in-word-fixed-on-windows-10-pc/",
-          "publishedOn": "2021-11-29T14:53:48.000Z",
-          "wordCount": 741,
-          "title": "Spell Check Not Working in Word [Fixed on Windows 10 PC]"
+          "id": "https://itainews.com/archives/2045829.html",
+          "author": "dqnplus",
+          "description": "1 ：名無しさん＠涙目です。：2025/03/08(土) 09:32:33.09 ID:dLAyBLmo0●.net\n\n\n\n\n\n\n\n\n\n松屋、ふと玉子ソーセージ丼があることに気付いて頼んでみたんだけど、名前、「日曜遅めに起きて冷蔵庫にあんまり物が入ってないこと思い出したけど買い物もめんどくさい独身丼」と...",
+          "link": "https://itainews.com/archives/2045829.html",
+          "publishedOn": "2025-03-09T05:01:43.000Z",
+          "wordCount": 3070,
+          "title": "【画像】「ウソやろ」　松屋の“530円丼”、衝撃的なビジュアルにネット騒然",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/a/7a2fb3ba-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2045831.html",
+          "author": "dqnplus",
+          "description": "1 ： ：2025/03/08(土) 10:04:49.16 ID:MhnPby5r0●.net \n\n\n\n\n\n\n\n\n\n「万博グルメが高い…ラーメン一杯２０００円の値段についてどうお感じでしょうか？」…生放送での質問に吉村知事が回答(スポーツ報知)#Yahooニュースhttps://t.co/wyZlUpMiCr #大阪・関西万博 #EXPO202...",
+          "link": "https://itainews.com/archives/2045831.html",
+          "publishedOn": "2025-03-09T04:31:41.000Z",
+          "wordCount": 3128,
+          "title": "「万博グルメが高い…ラーメン一杯２０００円の値段についてどうお感じでしょうか？」吉村知事が回答",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/4/c4bad3eb-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2045824.html",
+          "author": "dqnplus",
+          "description": "1 ：名無しさん必死だな：2025/03/08(土) 10:13:57.72 ID:/yfoXePi0.net\n\n\n\n\n\n\n\n\n\n三重交通公式キャラクター「神都あかり＆鈴鹿翔琉」の２等身デザインができました🎉運転士の制服や表情はそのまま、さらに可愛くなりました🫶これからバスのラッピングやグッズなど、様々...",
+          "link": "https://itainews.com/archives/2045824.html",
+          "publishedOn": "2025-03-09T04:01:37.000Z",
+          "wordCount": 3762,
+          "title": "【悲報】三重交通、女性キャラにあまりにも不自然なポーズをさせてしまい大炎上…終わりだよこの国",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/5/85a07ed7-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2045834.html",
+          "author": "dqnplus",
+          "description": "1 ：おっさん友の会 ★：2025/03/08(土) 14:35:53.67 ID:FpBiBmlB9.net\n\n\n\n\n\n\n\n\n\n\n宮崎市の飲食店　ノロウイルスによる集団食中毒｜宮崎ニュースUMK｜UMKテレビ宮崎 https://t.co/LZRnMbjRDv— 宮崎ニュースＵＭＫ(#Link) (@umk_news) March 7, 2025 \n\n\n\n\n\n\n\n\n\n\n宮崎市千...",
+          "link": "https://itainews.com/archives/2045834.html",
+          "publishedOn": "2025-03-09T03:31:02.000Z",
+          "wordCount": 2627,
+          "title": "【宮崎】飲食店「深夜カフェバーイチコロ」でノロウイルスによる集団食中毒が発生",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/3/230502a0-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2045827.html",
+          "author": "dqnplus",
+          "description": "1 ：♪♪♪ ★：2025/03/08(土) 10:52:20.82 ID:VOg43Wey9.net\n\n\n\n\n\n\n\n\n\nある人がスタバに行き満席だったので、既に片付けを終えスマホで動画を見ている女子高生2人組に「すみません、席空きますか？」と声を掛けたそうです🤔☕女子高生2人は顔を見合わせて長い沈黙の後...",
+          "link": "https://itainews.com/archives/2045827.html",
+          "publishedOn": "2025-03-09T03:01:34.000Z",
+          "wordCount": 3494,
+          "title": "満席のスタバで、長居する女子高生に「席空きますか？」不審がられた“声かけ”に賛否わかれる",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/1/b15f20bc-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2045842.html",
+          "author": "damono3856",
+          "description": "1 名前：おっさん友の会 ★：2025/03/09(日) 00:11:08.65 ID:rqxw9NGf9.net\n\n\n\n\n\n\n\n東京・国立市の踏切で知的障がいの男性が列車と衝突し死亡　見学で立ち入りか　警視庁 https://t.co/M2OmaGnb3U— テレ朝news (@tv_asahi_news) March 8, 2025  \n\n\n\n\n\n\n東京・国立市のJR...",
+          "link": "https://itainews.com/archives/2045842.html",
+          "publishedOn": "2025-03-09T02:02:03.000Z",
+          "wordCount": 3294,
+          "title": "【東京国立】電車好きな知的障がいの男性(47)、列車と衝突し死亡…見学で立ち入りか",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/7/074f3bec-s.png"
         }
       ]
     }
   ],
-  "cliVersion": "1.11.3"
+  "cliVersion": "1.15.1"
 }
