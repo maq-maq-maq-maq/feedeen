@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://maq-maq-maq-maq.github.io/feedeen/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-03-09T12:24:39.454Z</updated>
+    <updated>2025-03-09T12:57:00.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://maq-maq-maq-maq.github.io/feedeen/index.html"/>
     <link rel="self" href="https://maq-maq-maq-maq.github.io/feedeen/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[生後数日で育児放棄された“ガリガリの子ヤギ”をお迎えしたら……　大型犬たちとの“あたたかい日常”に「涙が止まりません」(ねとらぼ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/41685eae51c849e3c449dbbd59a3f55696f8cb34?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/41685eae51c849e3c449dbbd59a3f55696f8cb34?source=rss"/>
+        <updated>2025-03-09T12:30:12.000Z</updated>
+        <summary type="html"><![CDATA[生後数日で育児放棄されてしまった子ヤギをお迎えし、大型犬や猫たちと一緒に暮らしたら……心がぽかぽかにあたたまる、やさしい物語のような動画がYouTubeで話題です。動画は、記事執筆時点で15万回以上]]></summary>
+        <author>
+            <name>ねとらぼ - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【1940年代創業企業版】「従業員数の多い企業」ランキング！　2位は「本田技研工業」、1位は？(ねとらぼ)]]></title>
+        <id>https://news.yahoo.co.jp/articles/91ba4c8667b23050170c60adcc8aaa3b90b479fd?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/91ba4c8667b23050170c60adcc8aaa3b90b479fd?source=rss"/>
+        <updated>2025-03-09T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[「SalesNow」を展開するSalesNowは、日本最大級のデータベース「SalesNow DB」において、1940～1949年に設立された企業の従業員数の調査を行い、その結果をランキング形式で発]]></summary>
+        <author>
+            <name>ねとらぼ - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「男前なイメージの20代男性グループのタレント」ランキング！　2位は「八木勇征」、1位は？(ねとらぼ)]]></title>
         <id>https://news.yahoo.co.jp/articles/99bac53daee470e24ae37b59f581a06e2bfccb58?source=rss</id>
