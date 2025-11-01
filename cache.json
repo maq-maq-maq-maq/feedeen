@@ -12,6 +12,326 @@
       "siteUrl": "https://news.yahoo.co.jp/media/jct?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/1e1f8c77f27bff0331e2013f995a4f2754bc8351?source=rss",
+          "author": null,
+          "description": "俳優の坂口憲二さん（49）が2025年10月24日、コーヒー焙煎士としてオーナーを務める店「THE RISING SUN COFFEE ＆ BEANS」のインスタグラムを更新し、コーヒーをいれている",
+          "link": "https://news.yahoo.co.jp/articles/1e1f8c77f27bff0331e2013f995a4f2754bc8351?source=rss",
+          "publishedOn": "2025-11-01T01:00:00.000Z",
+          "wordCount": 1745,
+          "title": "坂口憲二、真剣表情にドキドキが止まらない！　丁寧にコーヒー注ぐ姿「やっぱ、カッコいい」(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251101-00000002-jct-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/90b13e01b5b2d35f8ff1ab61ee0876e370466db6?source=rss",
+          "author": null,
+          "description": "大リーグのロサンゼルス・ドジャースに所属するフレディ・フリーマン選手（36）の妻で、元モデルのチェルシーさんが2025年10月31日、自身のインスタグラムを更新。子どもたちとワールドシリーズを応援す",
+          "link": "https://news.yahoo.co.jp/articles/90b13e01b5b2d35f8ff1ab61ee0876e370466db6?source=rss",
+          "publishedOn": "2025-11-01T00:00:00.000Z",
+          "wordCount": 1730,
+          "title": "ドジャース・フリーマンの元モデル美人妻、異次元の脚の長さ神スタイル　金髪三つ編みの女神にドキっ(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251101-00000001-jct-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ec0abab9c54f87a1dfde4aea67c1d164ccf84a2b?source=rss",
+          "author": null,
+          "description": "元「モーニング娘。」メンバーで歌手の加護亜依さん（37）が2025年10月22日、自身のインスタグラムを更新。ミニスカートをあわせた秋コーデを披露した。\n\n■道端にたたずむキュートな姿\n\n　加護さん",
+          "link": "https://news.yahoo.co.jp/articles/ec0abab9c54f87a1dfde4aea67c1d164ccf84a2b?source=rss",
+          "publishedOn": "2025-10-31T23:00:00.000Z",
+          "wordCount": 1695,
+          "title": "加護亜依、超ミニの秋コーデにドキっ　「一生可愛い」「めっちゃスタイルいいです」かわいさ限界突破(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251101-00000000-jct-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/05a3fa7ed7567047357a04d8b6655ca59a257ea4?source=rss",
+          "author": null,
+          "description": "大リーグのロサンゼルス・ドジャースに所属するタナー・スコット選手（31）の妻のマディーさんが2025年10月20日、自身のインスタグラムを更新。白いTシャツとデニムを合わせたコーデを披露した。\n\n■",
+          "link": "https://news.yahoo.co.jp/articles/05a3fa7ed7567047357a04d8b6655ca59a257ea4?source=rss",
+          "publishedOn": "2025-10-31T11:00:00.000Z",
+          "wordCount": 1732,
+          "title": "ドジャース・スコットの美人妻、夫の名前入りTシャツ×デニムコーデでWS応援　神スタイルで美しさ限界突破(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000031-jct-000-3-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/eadca983ee9f6e129b6420cdc69cf3818d8b7404?source=rss",
+          "author": null,
+          "description": "大リーグのロサンゼルス・ドジャースに所属するフレディ・フリーマン選手（36）の妻で、元モデルのチェルシーさんが2025年10月30日、自身のインスタグラムを更新。夫・フリーマン選手の背番号「5」入り",
+          "link": "https://news.yahoo.co.jp/articles/eadca983ee9f6e129b6420cdc69cf3818d8b7404?source=rss",
+          "publishedOn": "2025-10-31T10:30:00.000Z",
+          "wordCount": 1725,
+          "title": "ドジャース・フリーマンの元モデル美人妻、色気ダダ漏れユニ風シャツ×パンツスタイルも「激カワ」(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000030-jct-000-2-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3a2b4d30055a6ce7e679d1470fafce289af86a1d?source=rss",
+          "author": null,
+          "description": "自民党・高市早苗首相が2025年10月31日、中国の習近平国家主席にあいさつしたとXで報告した。習主席と対面で話している様子を写真で紹介すると、SNS上では、「笑ってるじゃん」「習近平氏が微笑んでる",
+          "link": "https://news.yahoo.co.jp/articles/3a2b4d30055a6ce7e679d1470fafce289af86a1d?source=rss",
+          "publishedOn": "2025-10-31T10:17:35.000Z",
+          "wordCount": 1703,
+          "title": "高市早苗首相、習近平氏とのショットを公開→双方の笑顔に驚き　「珍しい」「笑ってるの初めて見た」(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000029-jct-000-5-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/60da2d8b2083ffe4c0188a133e2c75bbecaa5f24?source=rss",
+          "author": null,
+          "description": "お笑いコンビ「とんねるず」の木梨憲武さん（63）が2025年10月30日、元「たのきんトリオ」で国民的アイドルとして人気を博した、歌手・田原俊彦さん（64）とのツーショットをインスタグラムで公開し、",
+          "link": "https://news.yahoo.co.jp/articles/60da2d8b2083ffe4c0188a133e2c75bbecaa5f24?source=rss",
+          "publishedOn": "2025-10-31T10:08:29.000Z",
+          "wordCount": 1718,
+          "title": "木梨憲武、「昔の仲間」64歳国民的アイドルと再会2ショ　「超～豪華」「変わらず素敵」「最高」ファン興奮(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000028-jct-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/aec4a936bcec6e9bd41fece58b2a39f8aae52124?source=rss",
+          "author": null,
+          "description": "赤ちゃんとのお出かけに必須のアイテム・抱っこひも。SNSでは、アウトドア用品メーカー・モンベル（大阪府大阪市）の抱っこひもが「軽くて丈夫」「コンパクトで使いやすい」として話題になっている。\n\n　なぜ",
+          "link": "https://news.yahoo.co.jp/articles/aec4a936bcec6e9bd41fece58b2a39f8aae52124?source=rss",
+          "publishedOn": "2025-10-31T09:45:00.000Z",
+          "wordCount": 1773,
+          "title": "モンベルの「抱っこひも」、使いやすいと話題「軽くてコンパクトで丈夫」　アウトドア用品メーカーがなぜ？(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000027-jct-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8077fae5b8c1b1df33ba405abc650b92a38c722f?source=rss",
+          "author": null,
+          "description": "狂暴なクマを駆除するのに時給があまりにも安過ぎると、長野県内で活動しているハンターの男性が、Xへの投稿で窮状を訴え、反響を呼んでいる。\n\n　時給は1500円となっており、牛丼店のアルバイトよりも安い",
+          "link": "https://news.yahoo.co.jp/articles/8077fae5b8c1b1df33ba405abc650b92a38c722f?source=rss",
+          "publishedOn": "2025-10-31T09:35:11.000Z",
+          "wordCount": 1790,
+          "title": "1500円「この時給で命張れって言われても...」　ハンターがX投稿で訴え、クマ駆除に必要な報酬とは(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000026-jct-000-4-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/42cd35362b2bc07a3f1df7ff71ab767a154c4258?source=rss",
+          "author": null,
+          "description": "アメリカのアマゾン・ドット・コムは現地時間2025年10月28日朝、1万4000人の従業員削減を発表した。これは人工知能（AI）で業務の自動化を行い、経営の合理化を図ることが目的だという。\n\n　「A",
+          "link": "https://news.yahoo.co.jp/articles/42cd35362b2bc07a3f1df7ff71ab767a154c4258?source=rss",
+          "publishedOn": "2025-10-31T09:29:37.000Z",
+          "wordCount": 1765,
+          "title": "「AIに仕事を奪われる」が現実に...アマゾン1.4万人削減　新人の業務を代替→若者が就職難に苦しむ時代へ(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000025-jct-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4730ea27a0fd91f3b52a0a46d52993c7c589f7c6?source=rss",
+          "author": null,
+          "description": "静岡県の伊東市議会（定数20）は2025年10月31日、臨時会を開き、学歴詐称が指摘されている田久保真紀市長に対する2度目の不信任決議案を賛成19、反対1で可決した。田久保市長は即日失職し、50日以",
+          "link": "https://news.yahoo.co.jp/articles/4730ea27a0fd91f3b52a0a46d52993c7c589f7c6?source=rss",
+          "publishedOn": "2025-10-31T09:00:00.000Z",
+          "wordCount": 1720,
+          "title": "「涙したいのは伊東市民の皆さんでは」石井亮次アナ突き放す　それでも田久保市長は「精いっぱいやり切った」(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000024-jct-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ad460d139f614f55348ed6cb126c9b03658fd958?source=rss",
+          "author": null,
+          "description": "連日のようにクマの人里への出没や被害が報じられるなか、クマ対策グッズの注目度も上がっている。狩猟用品などを販売する「豊和精機製作所」（埼玉県加須市）は、クマ撃退アイテムであるクマスプレーや「ベアホー",
+          "link": "https://news.yahoo.co.jp/articles/ad460d139f614f55348ed6cb126c9b03658fd958?source=rss",
+          "publishedOn": "2025-10-31T08:45:00.000Z",
+          "wordCount": 1774,
+          "title": "相次ぐクマ被害、撃退グッズ販売倍増　クマスプレーは事前に「黄色いバンド外して」...狩猟用品店に聞く注意点(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000023-jct-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ca270bea132a3e4072fc77f2fa40949c2dd083bc?source=rss",
+          "author": null,
+          "description": "作家・赤坂真理氏が2025年10月30日にXで、自民党・高市早苗首相は常に笑顔でいるとの見方を示した上で、「いつも笑ってるって狂人キャラだよ」と表現し、「誹謗中傷だろ」「人に言ってはならない最大の侮",
+          "link": "https://news.yahoo.co.jp/articles/ca270bea132a3e4072fc77f2fa40949c2dd083bc?source=rss",
+          "publishedOn": "2025-10-31T08:41:45.000Z",
+          "wordCount": 1718,
+          "title": "元芥川賞候補・赤坂真理氏、高市早苗首相は「いつも笑ってるって狂人キャラ」　独自主張に批判1000件「普通に誹謗中傷だろ」(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000022-jct-000-2-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d37e7cd7fa5da3fd8b8599c16429210d5c5fe823?source=rss",
+          "author": null,
+          "description": "NHKが来年放送のTBS日曜劇場「VIVANT」続編の番組宣伝？――と驚いた視聴者も多いことだろう。2025年10月31日放送の「あさイチ」（NHK総合）に「VIVANT」の主役の堺雅人さんが出演、",
+          "link": "https://news.yahoo.co.jp/articles/d37e7cd7fa5da3fd8b8599c16429210d5c5fe823?source=rss",
+          "publishedOn": "2025-10-31T08:30:00.000Z",
+          "wordCount": 1696,
+          "title": "「セリフを一切間違えない」阿部寛が驚いた堺雅人は「ハマっちゃうタイプ」　重さ5キロの台本を全てスマホに(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000021-jct-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/995501ee3a8f7d3cf2bf1f1401815612d73f43fb?source=rss",
+          "author": null,
+          "description": "2025年10月29日深夜放送のバラエティー番組「あざとくて何が悪いの？」（テレビ朝日系）に、元「東方神起」メンバーで韓国の人気歌手ジェジュンさん（39）が出演した。この日のテーマは「女性の浮気」。",
+          "link": "https://news.yahoo.co.jp/articles/995501ee3a8f7d3cf2bf1f1401815612d73f43fb?source=rss",
+          "publishedOn": "2025-10-31T08:15:00.000Z",
+          "wordCount": 1714,
+          "title": "浮気の経験「バリバリありますよ」　元「東方神起」ジェジュンの衝撃告白に山里亮太「危ない、危ない」(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000020-jct-000-2-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5642ce63925a1cdf05df573f45bdd097beacc3d6?source=rss",
+          "author": null,
+          "description": "大盛況に終わった大坂・関西万博。2025年9月下旬から10月13日の閉幕日付近にかけては連日20万人以上が来場し、チケットの購入も困難になるほどだった。閉幕後は「万博ロス」の声も散見される。\n\n　し",
+          "link": "https://news.yahoo.co.jp/articles/5642ce63925a1cdf05df573f45bdd097beacc3d6?source=rss",
+          "publishedOn": "2025-10-31T08:00:00.000Z",
+          "wordCount": 1814,
+          "title": "大盛況に終わった万博、大量発生の「ユスリカ」問題どうなった？　「6月以降はかなり少なく」対策のカギは【万博振り返り】(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000019-jct-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/ef050b112528704423613572f13ad96fe435ea76?source=rss",
+          "author": null,
+          "description": "高市早苗首相が2025年10月30日に韓国・慶州でAPEC首脳会議に出席し、李在明大統領との初会談に臨んだ。李氏からの贈り物とは具体的に何だったのか、Xでは関心が集まっている。\n\n■高市氏から李大統",
+          "link": "https://news.yahoo.co.jp/articles/ef050b112528704423613572f13ad96fe435ea76?source=rss",
+          "publishedOn": "2025-10-31T07:43:01.000Z",
+          "wordCount": 1716,
+          "title": "「早苗とお揃いしたい！」「国家御用達コスメ教えて」　李大統領→高市首相の贈り物にX熱視線(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000018-jct-000-2-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/217eb1cf092958b74abfad78c0bb6cb5611fca5d?source=rss",
+          "author": null,
+          "description": "静岡県の伊東市議会が2025年10月31日に臨時議会を開き、田久保真紀市長に対する二度目の不信任決議案を可決した。\n\n　SNSでは、退任が決定した田久保氏による会見での表情が注目を集めている。\n\n■",
+          "link": "https://news.yahoo.co.jp/articles/217eb1cf092958b74abfad78c0bb6cb5611fca5d?source=rss",
+          "publishedOn": "2025-10-31T07:00:00.000Z",
+          "wordCount": 1760,
+          "title": "学歴詐称疑惑の伊東市・田久保真紀市長、失職決定　直後の会見に反応冷ややか(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000017-jct-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9703ec84ee388cf11ddec258455055b4fbc5b346?source=rss",
+          "author": null,
+          "description": "ファッションモデルのミランダ・カーさん（42）が、2025年10月30日（日本時間）にインスタグラムのストーリーズを更新。この日行われた、「MLBワールドシリーズ2025」ロサンゼルス・ドジャース対",
+          "link": "https://news.yahoo.co.jp/articles/9703ec84ee388cf11ddec258455055b4fbc5b346?source=rss",
+          "publishedOn": "2025-10-31T06:37:16.000Z",
+          "wordCount": 1722,
+          "title": "トップモデルのミランダ・カー42歳、女神降臨！ドジャース戦での自撮り美しすぎ　夫は7歳下イケメン超大物CEO(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000016-jct-000-4-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/bdd6a732cd4da6375ba074514d70c7c6a146ad69?source=rss",
+          "author": null,
+          "description": "2025年10月30日、5年ぶりに日本一に輝いたソフトバンクだが、気になる報道が。エース・有原航平がメジャー挑戦する可能性があることがスポーツ紙で報じられた。\n\n■リーグ3連覇へ...先発陣の強化が",
+          "link": "https://news.yahoo.co.jp/articles/bdd6a732cd4da6375ba074514d70c7c6a146ad69?source=rss",
+          "publishedOn": "2025-10-31T06:08:43.000Z",
+          "wordCount": 1749,
+          "title": "ソフトバンクに急展開！有原航平にメジャー挑戦報道　先発陣の補強で「有力候補」は誰だ(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000015-jct-000-6-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/3c17ff338b3f8842a14f1af64327ef5a0939541e?source=rss",
+          "author": null,
+          "description": "東京西部で京王線・井の頭線を運行する京王電鉄が、2025年10月31日のハロウィーンに向け、ほかの乗客に不安を感じさせる仮装での乗車を控えるように呼びかける張り紙を掲出している。\n\n■「ハロウィンの",
+          "link": "https://news.yahoo.co.jp/articles/3c17ff338b3f8842a14f1af64327ef5a0939541e?source=rss",
+          "publishedOn": "2025-10-31T05:38:12.000Z",
+          "wordCount": 1701,
+          "title": "京王電鉄、乗客に不安を感じさせる仮装での乗車を控えるよう呼びかけ　ハロウィーン当日は警備も強化(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000014-jct-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6d9f77bc94581609dfed9adb18917265a5baba71?source=rss",
+          "author": null,
+          "description": "小野田紀美経済安保担当相が2025年10月30日にXで、自身の英語力について驚きの事実を明かし、話題になっている。\n\n■「私は英語全然喋れません」\n\n　小野田氏は30日にXで「古い友人から『英語喋れ",
+          "link": "https://news.yahoo.co.jp/articles/6d9f77bc94581609dfed9adb18917265a5baba71?source=rss",
+          "publishedOn": "2025-10-31T05:17:51.000Z",
+          "wordCount": 1724,
+          "title": "小野田紀美大臣、旧友から「英語喋れるようになったん！？」→戸惑い明かす　スピーチの時は「全部原稿に...」告白(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000013-jct-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/4ddfeebe308947747c5c35205f6ad4c2a0ef4fb0?source=rss",
+          "author": null,
+          "description": "UHA味覚糖（大阪市）のハードグミ「忍者めし ラムネ」について、グミの色をめぐり、不良品を疑うような購入者談がXで波紋を広げている。外側を包む糖衣が淡い水色なのに、中のグミが茶色で、「コーラ味」に思",
+          "link": "https://news.yahoo.co.jp/articles/4ddfeebe308947747c5c35205f6ad4c2a0ef4fb0?source=rss",
+          "publishedOn": "2025-10-31T05:00:00.000Z",
+          "wordCount": 1735,
+          "title": "「忍者めしラムネ」中身に違和感、コーラ味？の声　実は茶色が正常...UHA味覚糖「誤解を生じさせてしまった」(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000012-jct-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7048817e00885e10958d9b18f13363160403a164?source=rss",
+          "author": null,
+          "description": "カナダ出身の人気ラッパー・ドレイクによるMLB・ドジャースの大谷翔平選手をめぐる「ディスり投稿」が、ブルージェイズファンを震撼させている。\n\n■「地元愛」で知られる世界的ラッパー\n\n　Spotify",
+          "link": "https://news.yahoo.co.jp/articles/7048817e00885e10958d9b18f13363160403a164?source=rss",
+          "publishedOn": "2025-10-31T04:41:11.000Z",
+          "wordCount": 1996,
+          "title": "大谷翔平の空振りに...煽り全開の世界的ラッパー・ドレイク　ファンから「応援やめろ」言われてしまうワケ(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000011-jct-000-3-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b71a804a6e38c7a682015f3bec5e34a09d81b947?source=rss",
+          "author": null,
+          "description": "テレビ朝日系で放送されている「スーパー戦隊シリーズ」が今期放送を最後に終了すると、2025年10月30日に複数メディアが報じた。これに、今期放送されている「ナンバーワン戦隊ゴジュウジャー」で巨神テガ",
+          "link": "https://news.yahoo.co.jp/articles/b71a804a6e38c7a682015f3bec5e34a09d81b947?source=rss",
+          "publishedOn": "2025-10-31T04:15:57.000Z",
+          "wordCount": 1714,
+          "title": "今期「スーパー戦隊」出演声優、シリーズ終了報道に悲しみも...X投稿謝罪　「公式からの報告は受けておりません」(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000010-jct-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5a6852848ed9a73357bb1d4462d8920088925f79?source=rss",
+          "author": null,
+          "description": "テレビ東京の情報番組「生活情報マーケット なないろ日和！」に2025年10月29日、おしゃれで素敵なコーディネーターの加藤タキさん（80）が出演、「加藤流いつまでも若々しくいる秘訣」を披露した。",
+          "link": "https://news.yahoo.co.jp/articles/5a6852848ed9a73357bb1d4462d8920088925f79?source=rss",
+          "publishedOn": "2025-10-31T04:00:00.000Z",
+          "wordCount": 1709,
+          "title": "「やってみたいと思ったらやればいい」　75歳でシャンソンを始めた加藤タキさん「若さの秘訣」(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000009-jct-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/c2f22a0e4a67d60ee438c6740de98f1e969d3062?source=rss",
+          "author": null,
+          "description": "静岡県伊東市の田久保眞紀市長が2025年10月31日にXを更新し、今後誤報や推測記事に対し、抗議をしていく意向を明らかにした。\n\n■「みなさんに直接、鋭意情報発信をしていきます」\n\n　学歴詐称疑惑で",
+          "link": "https://news.yahoo.co.jp/articles/c2f22a0e4a67d60ee438c6740de98f1e969d3062?source=rss",
+          "publishedOn": "2025-10-31T03:47:44.000Z",
+          "wordCount": 1721,
+          "title": "伊東市・田久保市長、「明日以降はいち市民」として情報発信...誤報・中傷には「抗議と訂正」　31日失職見通し(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000008-jct-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/53d25768ef38988a6e8ec2ab702785d91e3e9919?source=rss",
+          "author": null,
+          "description": "歌手の相川七瀬さん（50）が2025年10月28日、自身のインスタグラムを更新。人気音楽ユニット「Every Little Thing」のボーカルを務める持田香織さん（47）とのツーショットを披露し",
+          "link": "https://news.yahoo.co.jp/articles/53d25768ef38988a6e8ec2ab702785d91e3e9919?source=rss",
+          "publishedOn": "2025-10-31T03:15:00.000Z",
+          "wordCount": 1700,
+          "title": "相川七瀬、「10数年ぶりに...」豪華2ショット大反響　「二人とも全然変わってない」「テンション上がります」(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000007-jct-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/52f3939bd4fb92dc1676a975448f19996818e0ab?source=rss",
+          "author": null,
+          "description": "日本共産党の池内さおり元衆議院議員が2025年10月30日にXで、アメリカのトランプ大統領への高市早苗首相の対応をめぐり、「現地妻」という言葉を使って批判し、物議を醸している。\n\n■「彼女個人の自己",
+          "link": "https://news.yahoo.co.jp/articles/52f3939bd4fb92dc1676a975448f19996818e0ab?source=rss",
+          "publishedOn": "2025-10-31T03:03:39.000Z",
+          "wordCount": 1712,
+          "title": "元共産党議員・池内さおり氏、トランプ大統領への対応めぐり高市早苗首相に「現地妻」...X投稿で物議(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000006-jct-000-6-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a791bc733fb5b5f2fbe2b982ae1a0a6f61981935?source=rss",
+          "author": null,
+          "description": "元衆院議員の山尾志桜里氏が2025年10月30日、Xで「高市総理に対し『媚びを売るな』の批判が散見される」として、持論をつづった。\n\n■「懸命に努力して成果を出した女性を何十年も貶めてきた女性蔑視の",
+          "link": "https://news.yahoo.co.jp/articles/a791bc733fb5b5f2fbe2b982ae1a0a6f61981935?source=rss",
+          "publishedOn": "2025-10-31T02:36:26.000Z",
+          "wordCount": 1709,
+          "title": "山尾志桜里氏、高市総理めぐる「媚びを売るな」に怒り...「マジでやめて」「女性であることは何ら関係ない」(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000005-jct-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6bb2418fe577ce023eeec9ba5d5710fa60b99d00?source=rss",
+          "author": null,
+          "description": "電動キックボードなどのシェアリングサービスを運営するLuup（東京都品川区）が開発した三輪の新型車両「Unimo」（ユニモ）が注目を集めている。16歳以上なら免許不要で乗車でき、車道では時速20キロ",
+          "link": "https://news.yahoo.co.jp/articles/6bb2418fe577ce023eeec9ba5d5710fa60b99d00?source=rss",
+          "publishedOn": "2025-10-31T02:30:00.000Z",
+          "wordCount": 1789,
+          "title": "Luup新車両「Unimo」にさっそく懸念の声も　若者が歩道を時速20キロで走るのではないか？安全対策を聞いた(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000004-jct-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b1670b27481ff570b97d2e30d8f0183ec0b3eab8?source=rss",
+          "author": null,
+          "description": "男子マラソン・東京五輪6位入賞の大迫傑選手（34）が2025年10月28日、自身のインスタグラムを更新。脇腹のタトゥーをあらわにしたアスリートらしい筋肉美を披露した。\n\n■鍛えあげた上半身\n\n　大迫",
+          "link": "https://news.yahoo.co.jp/articles/b1670b27481ff570b97d2e30d8f0183ec0b3eab8?source=rss",
+          "publishedOn": "2025-10-31T02:00:00.000Z",
+          "wordCount": 1757,
+          "title": "マラソン・大迫傑、バキバキ肉体＆脇腹にバラのタトゥーの衝撃　「かっこいいー」(J-CASTニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000003-jct-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/4145077b141053f5c13577186162ee2ae589395c?source=rss",
           "author": null,
           "description": "「正直、今の仕事に不満はないけれど、このままでいいのかな」\n\n「やってみたい仕事に挑戦したい気持ちはあるけれど、何から始めたらいいのかわからない」\n\n　そんなふうに、キャリアの岐路に立ってモヤモヤして",
@@ -6730,246 +7050,6 @@
           "wordCount": 1662,
           "title": "元NHK中川安奈アナ、肩出しオフショルで麗しき脚組ショットにドキっ...「素敵！美しいです！！」(J-CASTニュース)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251003-00000000-jct-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/115361685a4196b5daf5d6913d15d172f3a377a7?source=rss",
-          "author": null,
-          "description": "ロサンゼルス・ドジャースの球団公式インスタグラムが2025年10月1日（日本時間）、大谷翔平選手（31）をはじめとするドジャースの選手たちの私服姿を公開した。\n\n■緊張した表情の佐々木朗希選手",
-          "link": "https://news.yahoo.co.jp/articles/115361685a4196b5daf5d6913d15d172f3a377a7?source=rss",
-          "publishedOn": "2025-10-02T11:00:00.000Z",
-          "wordCount": 1680,
-          "title": "大谷翔平＆山本由伸＆佐々木朗希、私服で球場入り　「めっちゃ爽やか」「カッコいい」大反響(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000023-jct-000-2-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/e2385b5e2b0f3a0af907ccf84a7c2a34a55b6459?source=rss",
-          "author": null,
-          "description": "2025年9月29日放送のニュース番組「news every.」（日本テレビ系）で、高市早苗氏の「奈良公園で鹿に暴行を加える外国人がいる」とする旨の発言を受けた取材の中でインタビューを受けた人たちに",
-          "link": "https://news.yahoo.co.jp/articles/e2385b5e2b0f3a0af907ccf84a7c2a34a55b6459?source=rss",
-          "publishedOn": "2025-10-02T10:24:52.000Z",
-          "wordCount": 1744,
-          "title": "「news every.」で「奈良の鹿」めぐる取材受けた人に誹謗中傷、特定行為も...　日テレ声明「取材で確認が取れた情報をお伝え」(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000022-jct-000-3-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/2bec911ea9c20a294bcb1651a6d0dbebd1051089?source=rss",
-          "author": null,
-          "description": "人気キャラクターシリーズ「ちいかわ」の新しいぬいぐるみ商品が2025年10月2日に発表され、購入前に種類を選ぶことが出来ない「ブラインド仕様」で複数キャラを展開していることが、Xで「鬼畜すぎる」など",
-          "link": "https://news.yahoo.co.jp/articles/2bec911ea9c20a294bcb1651a6d0dbebd1051089?source=rss",
-          "publishedOn": "2025-10-02T10:15:10.000Z",
-          "wordCount": 1710,
-          "title": "「鬼畜すぎる」ちいかわ人形に騒然　1体2420円で...キャラ6種ランダム販売「ラブブ商法ってコト？！」(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000021-jct-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/9d63857424ec970ae706332dc21575761f7d23f7?source=rss",
-          "author": null,
-          "description": "銀行のATMコーナーなどに置いてある現金用の封筒が、大手フリマサイトやオークションサイトで大量に転売されており、このことがXで取り上げられて、驚く声が上がっている。\n\n　無料で配布しているものだが、",
-          "link": "https://news.yahoo.co.jp/articles/9d63857424ec970ae706332dc21575761f7d23f7?source=rss",
-          "publishedOn": "2025-10-02T09:17:55.000Z",
-          "wordCount": 1785,
-          "title": "ATMの現金用封筒、何者かが大量持ち出し？　フリマサイトなどで転売、ゆうちょ「控えていただきたい」(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000020-jct-000-4-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/35309209972537cd651b96832f24f192f9784b21?source=rss",
-          "author": null,
-          "description": "「ひろゆき」こと実業家の西村博之さんが2025年10月2日にXで、「よこすか開国花火大会2025」が中止になった理由について、「こんなん予測してた人おるん？」と驚きの声を上げた。\n\n■米政府機関の一",
-          "link": "https://news.yahoo.co.jp/articles/35309209972537cd651b96832f24f192f9784b21?source=rss",
-          "publishedOn": "2025-10-02T09:03:41.000Z",
-          "wordCount": 1664,
-          "title": "「こんなん予測してた人おるん？」　ひろゆき、横須賀の花火大会中止のまさかの理由に驚き(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000019-jct-000-2-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/1ae13a3ee9485089ab155d5a46f68f5a059ccb29?source=rss",
-          "author": null,
-          "description": "部下の男性職員と10回以上ラブホテルに行ったと認めている前橋市の小川晶市長は 2025年10月2日、「週刊文春」記事や事実関係について市議会に2度目の説明を行った。\n\n　説明会後の会見で、相手の男性",
-          "link": "https://news.yahoo.co.jp/articles/1ae13a3ee9485089ab155d5a46f68f5a059ccb29?source=rss",
-          "publishedOn": "2025-10-02T08:30:00.000Z",
-          "wordCount": 1711,
-          "title": "「超セクハラ事件ですよ」橋下徹氏が前橋市・小川晶市長をバッサリ　「僕が市長だったら」(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000018-jct-000-2-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/cad0716a55c9d72b68cc208c647cbc892bbab1f3?source=rss",
-          "author": null,
-          "description": "お笑いコンビ「ダウンタウン」の松本人志さん（62）が、2025年10月1日、約11か月ぶりにXを更新した。\n\n■「【ヒント】逆 声 アカウント」\n\n　吉本興業のプラットフォーム「FANY」公式Xが、",
-          "link": "https://news.yahoo.co.jp/articles/cad0716a55c9d72b68cc208c647cbc892bbab1f3?source=rss",
-          "publishedOn": "2025-10-02T08:11:05.000Z",
-          "wordCount": 1717,
-          "title": "松本人志、11か月ぶりX更新...「松ちゃんが動いた！」　復活匂わせ？ファン歓喜「楽しみ」「ついに」(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000017-jct-000-2-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/95af1ae72c9ccb168c84bf669334a2055fb19a2c?source=rss",
-          "author": null,
-          "description": "プロ野球巨人の元ヘッドコーチで野球解説者の元木大介さん（53）が2025年9月29日、自身のインスタグラムを更新。レジェンドが集うショットを披露した。\n\n■「甲子園を沸かせたスタートリオ」ファン歓喜",
-          "link": "https://news.yahoo.co.jp/articles/95af1ae72c9ccb168c84bf669334a2055fb19a2c?source=rss",
-          "publishedOn": "2025-10-02T07:45:00.000Z",
-          "wordCount": 1673,
-          "title": "元巨人・清原和博＆元木大介コンビ、野村弘樹交え...笑顔ステキな3ショット　「番長！！元気そう」(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000016-jct-000-4-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/4bf17718a5309034c690139582e0517c7cf4841f?source=rss",
-          "author": null,
-          "description": "2025年6月にお笑いコンビ「ロンドンブーツ1号2号」を解散したタレントの田村淳さんが、10月1日放送のバラエティー番組「耳の穴かっぽじって聞け！」（テレビ朝日）に出演し、コンビ解散の理由を語った。",
-          "link": "https://news.yahoo.co.jp/articles/4bf17718a5309034c690139582e0517c7cf4841f?source=rss",
-          "publishedOn": "2025-10-02T07:31:58.000Z",
-          "wordCount": 1708,
-          "title": "田村淳、「ロンブー」再結成の可能性に言及...「本当は亮さんにツッコんで欲しい」　解散理由も語る「コンビバランスが」(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000015-jct-000-2-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/0558a2ef76fdc5a317a7646680c6e4bcec8cb302?source=rss",
-          "author": null,
-          "description": "プロボクシングの元世界3階級制覇王者ジョンリル・カシメロ（フィリピン、36）が、2025年9月26日に公開されたABEMAボクシング公式ユーチューブチャンネルに出演し、スーパーバンタム級4団体統一",
-          "link": "https://news.yahoo.co.jp/articles/0558a2ef76fdc5a317a7646680c6e4bcec8cb302?source=rss",
-          "publishedOn": "2025-10-02T07:23:09.000Z",
-          "wordCount": 1772,
-          "title": "元世界王者カシメロ、井上尚弥に言いたい放題「悪態」 ファン反発「何を言おうが相手にして貰えなかった、これが全て」(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000014-jct-000-8-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/fe5f7179de437ea5d5f9cd11cac6e92643701c96?source=rss",
-          "author": null,
-          "description": "米政府機関が予算の失効で一部閉鎖されたことを受け、日本国内にも影響が及んでいる。そのひとつとして、米海軍横須賀基地の公式Xが2025年10月2日、5日に予定されていたイベント「日米親善ヨコスカフレン",
-          "link": "https://news.yahoo.co.jp/articles/fe5f7179de437ea5d5f9cd11cac6e92643701c96?source=rss",
-          "publishedOn": "2025-10-02T07:00:00.000Z",
-          "wordCount": 1715,
-          "title": "米政府機関閉鎖、日本にも影響続々　SNS更新滞り、米軍交流イベント中止に「残念」の声(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000013-jct-000-2-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/5226bb061700ab2037de5e1cf411e00d47ef81e0?source=rss",
-          "author": null,
-          "description": "東京とパリの五輪2大会連続でトランポリン女子日本代表の森ひかる選手が2025年10月1日にXを更新し、ブルガリア・ヴァルナで9月27～29日に開催された「2025 FIGトランポリン ワールドカップ",
-          "link": "https://news.yahoo.co.jp/articles/5226bb061700ab2037de5e1cf411e00d47ef81e0?source=rss",
-          "publishedOn": "2025-10-02T06:21:40.000Z",
-          "wordCount": 1721,
-          "title": "「顔芸も世界一」　トランポリンW杯3冠、感情ほとばしる森ひかるに注目「絶対良い子やんwww」(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000012-jct-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/636b90e89e8a98d8df31fa18c8df18fa324bd04d?source=rss",
-          "author": null,
-          "description": "フリー素材サイト「ぱくたそ」のモデルなどで知られる、グラビアアイドルの茜さやさん（32）が、2025年10月1日にnoteを更新。第1子を出産したことを発表した。\n\n■「目が合うとにこぉと笑う笑顔が",
-          "link": "https://news.yahoo.co.jp/articles/636b90e89e8a98d8df31fa18c8df18fa324bd04d?source=rss",
-          "publishedOn": "2025-10-02T06:01:55.000Z",
-          "wordCount": 1716,
-          "title": "フリー素材モデル・茜さや、第1子出産報告　「想像の10倍大変だけど、我が子は想像の100倍可愛いな」(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000011-jct-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/e5249f3e35d4c9f752ad54963a2e58616aa0bb26?source=rss",
-          "author": null,
-          "description": "恋愛観察バラエティ番組「あいのり Asian Journey」（フジテレビ系）に出演していたでっぱりんさんが2025年10月2日にブログを更新し、移住先のフィリピンでマグニチュード6.9の地震に遭遇",
-          "link": "https://news.yahoo.co.jp/articles/e5249f3e35d4c9f752ad54963a2e58616aa0bb26?source=rss",
-          "publishedOn": "2025-10-02T05:48:25.000Z",
-          "wordCount": 1720,
-          "title": "フィリピン在住の元あいのり出演者、M6.9の地震に遭遇　「母は強いとはこの事か？」テキパキ行動(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000010-jct-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/2e209dd87e9dd9c59408f93745e82a5b400dde13?source=rss",
-          "author": null,
-          "description": "2021年12月18日に亡くなった俳優で歌手の神田沙也加さんの公式Xとインスタグラムが25年10月2日に更新され、かつての所属事務所がファンからの誕生日祝いに感謝を明かした。\n\n■「神田沙也加の39",
-          "link": "https://news.yahoo.co.jp/articles/2e209dd87e9dd9c59408f93745e82a5b400dde13?source=rss",
-          "publishedOn": "2025-10-02T05:26:09.000Z",
-          "wordCount": 1669,
-          "title": "神田沙也加さんのSNS、誕生日に更新...祝福コメントに感謝　「生きてきた証が残っている」(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000009-jct-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/287b771a9c940964798426b51a460130f7ed98fb?source=rss",
-          "author": null,
-          "description": "韓国メディア「マニアタイムズ」（ウェブ版）が2025年10月1日、韓国プロ野球（KBO）リーグのキウム・ヒーローズでプレーするソン・ソンムン内野手（29）の特集記事を組み、ソンの大リーグ挑戦を不安視",
-          "link": "https://news.yahoo.co.jp/articles/287b771a9c940964798426b51a460130f7ed98fb?source=rss",
-          "publishedOn": "2025-10-02T05:15:43.000Z",
-          "wordCount": 1690,
-          "title": "今オフ「大リーグ挑戦」韓国人野手、「長打力が足りず守備・走塁は平凡」韓国メディア辛辣...「韓国人野手の成功はまれ」イ・ジョンフさえ苦戦(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000008-jct-000-4-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/3dd2b4371f0dcc9eacd286cea4e8d057dd819dfe?source=rss",
-          "author": null,
-          "description": "「中国の国慶節をすっかり忘れて旅行を計画しちゃったんですよ」と悔やんでいるのは、「羽鳥慎一モーニングショー」（テレビ朝日系）のレギュラーコメンテーターで、旅行好きの玉川徹氏（ジャーナリスト）だ。",
-          "link": "https://news.yahoo.co.jp/articles/3dd2b4371f0dcc9eacd286cea4e8d057dd819dfe?source=rss",
-          "publishedOn": "2025-10-02T04:10:02.000Z",
-          "wordCount": 1676,
-          "title": "中国人観光客が大挙して日本にやって来る　玉川徹氏は困り顔「今年はいままでと違うところに行かれる」(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000007-jct-000-4-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/6ffdd8cad39a7246ccce09b9d2670ef7143f82d8?source=rss",
-          "author": null,
-          "description": "VTuberとして活動する「モーム・エンペル」さんが2025年10月1日、「迷惑メール」の送り主とのメッセージのやりとりをXで公開し、ネットの注目を集めている。\n\n■「御連絡していただきましたが、こ",
-          "link": "https://news.yahoo.co.jp/articles/6ffdd8cad39a7246ccce09b9d2670ef7143f82d8?source=rss",
-          "publishedOn": "2025-10-02T03:35:00.000Z",
-          "wordCount": 1707,
-          "title": "Vtuberが律義すぎる「詐欺SMS」送り主に遭遇→まさかのやり取り　「お前もうこの仕事やめろ。向いてないよ」(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000006-jct-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/2afcb6695521e65eb2cfcff2ab959b8e34696401?source=rss",
-          "author": null,
-          "description": "フリーアナウンサーの徳光和夫氏（84）が、2025年9月29日深夜（30日未明）放送のTOKYO FM「TOKYO SPEAKEASY」に出演し、リーグ優勝を果たした阪神・藤川球児監督（45）の手腕",
-          "link": "https://news.yahoo.co.jp/articles/2afcb6695521e65eb2cfcff2ab959b8e34696401?source=rss",
-          "publishedOn": "2025-10-02T03:16:29.000Z",
-          "wordCount": 1757,
-          "title": "G党・徳光和夫氏、阪神・藤川監督は「戸郷を丸裸に」 敵将「独走V」評価も...巨人と阪神は「あまり実力に差はない」(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000005-jct-000-5-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/d0ce2a25c219103a55b69a53fcf881284a332326?source=rss",
-          "author": null,
-          "description": "プロ野球DeNAの元ヘッドコーチで野球解説者の高木豊氏（66）が2025年10月1日に公式YouTubeチャンネルを更新し、今シーズン限りで退任するDeNA三浦大輔監督（51）の後任を予想した。",
-          "link": "https://news.yahoo.co.jp/articles/d0ce2a25c219103a55b69a53fcf881284a332326?source=rss",
-          "publishedOn": "2025-10-02T02:30:00.000Z",
-          "wordCount": 1684,
-          "title": "「長期政権を任せたらどうか」　DeNA次期監督に球団OB・高木豊氏が推す人物とは(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000004-jct-000-3-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/ce6f606a2f64c6a331b498d26e0586a719a14821?source=rss",
-          "author": null,
-          "description": "「東京2025世界陸上」で競技中に寝袋を使って横になり、目を閉じて集中力を高める姿から「眠れる森の美女」と話題をさらった陸上女子走り高跳び銅メダリスト、ウクライナのヤロスラワ・マフチフ選手（24）が",
-          "link": "https://news.yahoo.co.jp/articles/ce6f606a2f64c6a331b498d26e0586a719a14821?source=rss",
-          "publishedOn": "2025-10-02T02:15:00.000Z",
-          "wordCount": 1664,
-          "title": "「眠れる森の美女」マフチフ選手、超ミニスカ×ホルターネックでニースの海に　女神級美しさに激震(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000003-jct-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/d7ab3040279e5f49cc36f1d1372c5333f8eabb33?source=rss",
-          "author": null,
-          "description": "チャンネル登録者数83万超の人気YouTuber「午前0時のプリンセス」（ぜろぷり）メンバーのJESSICA（ジェシカ）さんが、2025年9月27日に個人YouTubeを更新。交際10年目を迎える恋",
-          "link": "https://news.yahoo.co.jp/articles/d7ab3040279e5f49cc36f1d1372c5333f8eabb33?source=rss",
-          "publishedOn": "2025-10-02T02:00:00.000Z",
-          "wordCount": 1678,
-          "title": "登録者83万超人気YouTuber、交際10年目恋人とラブラブ記念日　「これからも仲良くおろね。自分たちらしく」(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000002-jct-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/4706e284e100a29f3bce22d8b969a2d2729eccb4?source=rss",
-          "author": null,
-          "description": "石破茂首相が2025年10月1日、Xで「日本メガネベストドレッサー賞」の受賞を報告した。\n\n■「現職の内閣総理大臣として29年ぶり」\n\n　石破氏は「栄えある日本メガネベストドレッサー賞をいただきまし",
-          "link": "https://news.yahoo.co.jp/articles/4706e284e100a29f3bce22d8b969a2d2729eccb4?source=rss",
-          "publishedOn": "2025-10-02T01:45:00.000Z",
-          "wordCount": 1721,
-          "title": "石破茂首相「日本メガネベストドレッサー賞」受賞に喜び　サングラス姿も披露、「いつも違う眼鏡かけてる」の声も(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000001-jct-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/c43cfe9fb1136d5e3eff38a6b46de45478ecaa6f?source=rss",
-          "author": null,
-          "description": "フィットネスプロデューサーのAYAさん（40）が2025年9月27日、自身のインスタグラムを更新。引き締まったボディが際立つウェア姿を披露した。\n\n　AYAさんは、フジテレビ系バラエティ番組「千鳥の",
-          "link": "https://news.yahoo.co.jp/articles/c43cfe9fb1136d5e3eff38a6b46de45478ecaa6f?source=rss",
-          "publishedOn": "2025-10-01T23:00:00.000Z",
-          "wordCount": 1702,
-          "title": "「鬼レンチャン」話題のフィットネスプロデューサーAYA、バキバキ腹筋のハーフトップ姿　「いつもカッコいい」(J-CASTニュース)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000000-jct-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -6978,6 +7058,246 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/anmanmv/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/anmanmv?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/5df2ab535d8f7eb4934652b8b05f693ef3d0790e?source=rss",
+          "author": null,
+          "description": "ディズニーストアより、クリスマスシーズンを彩るデコレーションアイテムやギフトにぴったりなコレクション「DISNEY CHRISTMAS」が登場。ディズニーフラッグシップ東京とディズニーストア店舗、ディ",
+          "link": "https://news.yahoo.co.jp/articles/5df2ab535d8f7eb4934652b8b05f693ef3d0790e?source=rss",
+          "publishedOn": "2025-11-01T01:00:04.000Z",
+          "wordCount": 1764,
+          "title": "「ディズニー」ミッキーたちがクリスマスの魔法をお届け♪ ツリーやアドベントカレンダー、セータも！新コレクション登場(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251101-00000001-anmanmv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/2a9d523f927b60e9a9b01a2a0d9243b00373428c?source=rss",
+          "author": null,
+          "description": "シンガーソングライターのTani Yuukiが、11月19日にリリースする新シングル「もしものがたり」の詳細を発表しました。同楽曲はTVアニメ「ドラえもん」の新エンディング曲として起用されており、Ta",
+          "link": "https://news.yahoo.co.jp/articles/2a9d523f927b60e9a9b01a2a0d9243b00373428c?source=rss",
+          "publishedOn": "2025-10-31T12:00:04.000Z",
+          "wordCount": 2043,
+          "title": "「ドラえもん」の新エンディング曲　Tani Yuuki「もしものがたり」初回盤に野外ライブ全曲収録！「THE FIRST TAKE」も3年ぶり登場(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000024-anmanmv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/fcad6b5a0306feb82e300375499544bf97e6b7be?source=rss",
+          "author": null,
+          "description": "10月29日よりディズニープラスで独占配信が開始された『ディズニー ツイステッドワンダーランド ザ アニメーション』シーズン1「エピソード オブ ハーツラビュル」のオリジナル・サウンドトラックVol.",
+          "link": "https://news.yahoo.co.jp/articles/fcad6b5a0306feb82e300375499544bf97e6b7be?source=rss",
+          "publishedOn": "2025-10-31T11:50:35.000Z",
+          "wordCount": 1755,
+          "title": "日常が『ツイステ』の世界に変わる！サウンドトラックを聴いて名シーンを追体験！配信開始♪(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000023-anmanmv-000-2-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a06c8225a2437db6f0bf61a464adacd0b6cdde40?source=rss",
+          "author": null,
+          "description": "10月31日がハロウィンということで、さまざまなアニメの公式Xなどがハロウィンイラストを投稿している様子。そんな中『機動戦士ガンダム 閃光のハサウェイ』公式Xから特別なイラストが公開され、ネット上では",
+          "link": "https://news.yahoo.co.jp/articles/a06c8225a2437db6f0bf61a464adacd0b6cdde40?source=rss",
+          "publishedOn": "2025-10-31T11:21:44.000Z",
+          "wordCount": 1738,
+          "title": "「いやアンタがそれ持つんかい」「魔女繋がりって…」「ガンダム」シリーズに登場する“魔女”にちなんだ3人が特別なイラストに！(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000022-anmanmv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0b3c59046fa6811986fc48fe1ba15e8a73b7fa2f?source=rss",
+          "author": null,
+          "description": "中国でも根強い人気を誇る『機動戦士ガンダム』。全世界のガンプラファンに向けた公式ガンプラ総合施設・ガンダムベースは、日本では東京、福岡、新千歳空港など全国で展開。\n2018年8月に中国大陸部に初進出し",
+          "link": "https://news.yahoo.co.jp/articles/0b3c59046fa6811986fc48fe1ba15e8a73b7fa2f?source=rss",
+          "publishedOn": "2025-10-31T11:15:04.000Z",
+          "wordCount": 1691,
+          "title": "“ガンダムベース”が中国で急速に拡大中！ ガンダムIPの総売上高は200億越え、過去5年間で約2.4倍に(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000021-anmanmv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/6df9faf3826778fc5475546f1fd215015586415d?source=rss",
+          "author": null,
+          "description": "アニメ『呪術廻戦』のコラボレーション企画が全国のファミリーマートにて実施中だ。その第2弾として、11月7日からの『劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」』の公開にあわせ、11",
+          "link": "https://news.yahoo.co.jp/articles/6df9faf3826778fc5475546f1fd215015586415d?source=rss",
+          "publishedOn": "2025-10-31T11:00:03.000Z",
+          "wordCount": 1845,
+          "title": "「呪術廻戦」虎杖、五条が渋谷ファミマに集合！ ラッピング店舗がオープン＆限定グッズも登場(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000020-anmanmv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9a50ba812a32627ff82573ec4d75ee4c146c2313?source=rss",
+          "author": null,
+          "description": "マンガ『攻殻機動隊』の草薙素子が、マックスファクトリーより1/7スケールでフィギュア化された。単行本第1巻の表紙イラストをベースに、立体ならではのアレンジを加えて立体化されたもので、ホビー通販の「あみ",
+          "link": "https://news.yahoo.co.jp/articles/9a50ba812a32627ff82573ec4d75ee4c146c2313?source=rss",
+          "publishedOn": "2025-10-31T10:51:16.000Z",
+          "wordCount": 1741,
+          "title": "「攻殻機動隊」草薙素子、単行本第1巻の表紙でフィギュア化！立てかけて飾れる特別仕様(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000019-anmanmv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9033ccf147a631d6c60964c7a34cb68197eba6e4?source=rss",
+          "author": null,
+          "description": "2025年10月31日21時から「金曜ロードショー」にて、世代を超えて愛され続けるディズニー不朽の名作『トイ・ストーリー・オブ・テラー！』と『ナイトメアー・ビフォア・クリスマス』を本編ノーカットで地上",
+          "link": "https://news.yahoo.co.jp/articles/9033ccf147a631d6c60964c7a34cb68197eba6e4?source=rss",
+          "publishedOn": "2025-10-31T10:37:31.000Z",
+          "wordCount": 1768,
+          "title": "「ナイトメアー・ビフォア・クリスマス」声優・キャラクター・あらすじまとめ【金曜ロードショー放送】(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000018-anmanmv-000-3-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/449fd8f3ee0c486e6ddac87a5e9f70b030d402a2?source=rss",
+          "author": null,
+          "description": "ただ飾るだけでなく、カップ麺のふたのストッパーとしても楽しめるフィギュアとして誕生した人気プライズ（クレーンゲーム景品）シリーズ「ぬーどるストッパーフィギュア（以下、ぬースト）」。プライズ事業を手掛け",
+          "link": "https://news.yahoo.co.jp/articles/449fd8f3ee0c486e6ddac87a5e9f70b030d402a2?source=rss",
+          "publishedOn": "2025-10-31T09:00:35.000Z",
+          "wordCount": 1890,
+          "title": "「チェンソーマン」「着せ恋」まで！座りポーズで魅了する「ぬースト」10周年！その軌跡を画像コレクションと共に辿る開発者インタビュー！(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000017-anmanmv-000-2-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/cf64a7c8cf0b8e8b12e1942aef2ff106485e2050?source=rss",
+          "author": null,
+          "description": "TVアニメ第3期とシリーズ初となる劇場版の制作が決定している『薬屋のひとりごと』は、今年のハロウィン企画の新規ビジュアルを3日間連続で公開中だ。このたびその第3弾として、死神に扮した猫猫と壬氏のキャラ",
+          "link": "https://news.yahoo.co.jp/articles/cf64a7c8cf0b8e8b12e1942aef2ff106485e2050?source=rss",
+          "publishedOn": "2025-10-31T09:00:04.000Z",
+          "wordCount": 1714,
+          "title": "「薬屋のひとりごと」壬氏様の妖艶な笑み♪ “覚悟はよろしいですか？”猫猫と一緒に死神に！ハロウィンビジュアル第3弾(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000016-anmanmv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9c271affc41dbdf80232269d1fa7e542a43af9b7?source=rss",
+          "author": null,
+          "description": "10月27日から11月9日までは「読書週間」です。\n\n物語に浸るのにぴったりな秋の季節。マンガはアニメの原作になることも多く、「続きが気になる作品がある」という人も多いのではないでしょうか。\n\n次回が",
+          "link": "https://news.yahoo.co.jp/articles/9c271affc41dbdf80232269d1fa7e542a43af9b7?source=rss",
+          "publishedOn": "2025-10-31T08:45:03.000Z",
+          "wordCount": 1877,
+          "title": "完結していないマンガで“一番続きが気になる”作品は？3位「文豪ストレイドッグス」、2位「HUNTER×HUNTER」、1位は「名探偵コナン」(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000015-anmanmv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b9a6594d23ebd1b911af2cf7cc5545e85a617fe6?source=rss",
+          "author": null,
+          "description": "『機動戦士ガンダム 鉄血のオルフェンズ』に登場するガンダムバルバトスルプスレクスが、METAL ROBOT魂シリーズより発売。シリーズ史上最高となるダイキャスト比率と緻密な構造設計によって、アニメその",
+          "link": "https://news.yahoo.co.jp/articles/b9a6594d23ebd1b911af2cf7cc5545e85a617fe6?source=rss",
+          "publishedOn": "2025-10-31T08:15:04.000Z",
+          "wordCount": 1758,
+          "title": "ガンダムバルバトスルプスレクスの圧倒的な可動性能を実現したフィギュアが登場！アニメのシーンを忠実に再現可能(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000014-anmanmv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a8f368350f16a8e08eba6313cab163f002b9f97a?source=rss",
+          "author": null,
+          "description": "1万以上の人気映画やTV番組が見放題の「Prime Video」より、2025年11月に配信が開始されるプライム会員特典対象作品のラインナップが発表された。「テレビアニメ（日本）」に『藤本タツキ 17",
+          "link": "https://news.yahoo.co.jp/articles/a8f368350f16a8e08eba6313cab163f002b9f97a?source=rss",
+          "publishedOn": "2025-10-31T08:00:04.000Z",
+          "wordCount": 2404,
+          "title": "「藤本タツキ 17-26」独占配信がスタート＆実写映画「ミステリと言う勿れ」も！「Prime Video」25年11月ラインナップ(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000013-anmanmv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/7ddecca1517f5eebbd7f5c5f0bda80ab30af1205?source=rss",
+          "author": null,
+          "description": "TVアニメ『薬屋のひとりごと』の猫猫と壬氏が、パレットから生まれたフィギュアブランド「PalVerse Palé. (パルバースパレ)」の新商品「PalVerse Palé. 薬屋のひとりごと」として",
+          "link": "https://news.yahoo.co.jp/articles/7ddecca1517f5eebbd7f5c5f0bda80ab30af1205?source=rss",
+          "publishedOn": "2025-10-31T07:45:04.000Z",
+          "wordCount": 1792,
+          "title": "「薬屋のひとりごと」猫猫＆壬氏がアメリカンアニメーション風に♪ デフォルメフィギュア「PalVerse Palé.」登場(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000012-anmanmv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/49c8828d38c3da82f42e7298e9cdc59d6f2d7608?source=rss",
+          "author": null,
+          "description": "『機動戦士ガンダムSEED』『機動戦士ガンダムSEED DESTINY』に登場するキラ・ヤマトの愛機フリーダムガンダムがMETAL BUILDより発売。全身のシルエットや各武装を新規ギミックで再現し、",
+          "link": "https://news.yahoo.co.jp/articles/49c8828d38c3da82f42e7298e9cdc59d6f2d7608?source=rss",
+          "publishedOn": "2025-10-31T07:30:03.000Z",
+          "wordCount": 1763,
+          "title": "フリーダムガンダムがMETAL BUILDで進化！「ガンダムSEED」の象徴が新たな姿に(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000011-anmanmv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/e39a84923b21d1a2a72f90f4e9d599c8ccf731a5?source=rss",
+          "author": null,
+          "description": "「マクロス」シリーズを手掛けたアニメ監督・河森正治の初オリジナル劇場長編アニメーション『迷宮のしおり』の場面写真が公開された。個性豊かなキャラクターたちの劇中の様子が映し出されている。\n\n◇『迷宮のし",
+          "link": "https://news.yahoo.co.jp/articles/e39a84923b21d1a2a72f90f4e9d599c8ccf731a5?source=rss",
+          "publishedOn": "2025-10-31T07:15:03.000Z",
+          "wordCount": 1808,
+          "title": "「マクロス」 河森正治の初オリジナル劇場長編アニメーション「迷宮のしおり」の場面写真が公開(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000010-anmanmv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/50c75d5117950e8f867e7a3aff9d44cae09d6163?source=rss",
+          "author": null,
+          "description": "バーチャルシンガーのHACHIが2025年10月29日、メジャーデビュー後初のライブツアー「HACHI Zepp Live Tour 2024 “for ASTRA.” at TOKYO」を収録したL",
+          "link": "https://news.yahoo.co.jp/articles/50c75d5117950e8f867e7a3aff9d44cae09d6163?source=rss",
+          "publishedOn": "2025-10-31T07:10:03.000Z",
+          "wordCount": 2299,
+          "title": "バーチャルシンガー・HACHI、26年2月11日に4thアルバムをリリース！ジャケット公開(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000009-anmanmv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5fdc62b2ac34f74673c8a4aab8c4864612990af3?source=rss",
+          "author": null,
+          "description": "10月31日はハロウィンです。\n\n月末の24日から26日には「池袋ハロウィンコスプレフェス2025」が行われ、10月25日の「池ハロコスプレパレード」では、約400名のコスプレイヤーが池袋の街中を練り",
+          "link": "https://news.yahoo.co.jp/articles/5fdc62b2ac34f74673c8a4aab8c4864612990af3?source=rss",
+          "publishedOn": "2025-10-31T07:00:04.000Z",
+          "wordCount": 2242,
+          "title": "ハロウィンで仮装したい女性キャラクターは？「葬送のフリーレン」や「呪術廻戦」、「薬屋のひとりごと」など、話題作のキャラに投票が！(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000008-anmanmv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/cee8baf1c541d98beb38a21e83b4dd1e788bd2e6?source=rss",
+          "author": null,
+          "description": "今から36年前の1989年7月に公開された劇場アニメ『機動警察パトレイバー the Movie』と、32年前の1993年8月公開の続編『機動警察パトレイバー2 the Movie』の4K版リバイバル上",
+          "link": "https://news.yahoo.co.jp/articles/cee8baf1c541d98beb38a21e83b4dd1e788bd2e6?source=rss",
+          "publishedOn": "2025-10-31T04:00:03.000Z",
+          "wordCount": 2021,
+          "title": "「機動警察パトレイバー」リバイバル上映で振り返る…懐かしさとエモさが同居する極上の人間ドラマ【平成・昭和レトロアニメのすゝめ】(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000007-anmanmv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/64516e3042b17522660575c7fcf66392925c96fa?source=rss",
+          "author": null,
+          "description": "『ヤマトよ永遠に REBEL3199』における宇宙戦艦ヤマトの「第3次改装型」が、大人の艦隊コレクションをテーマとする「輝艦大全」より立体化された。全長約165mmサイズのリアルな船体の艦橋窓、艦首波",
+          "link": "https://news.yahoo.co.jp/articles/64516e3042b17522660575c7fcf66392925c96fa?source=rss",
+          "publishedOn": "2025-10-31T03:50:47.000Z",
+          "wordCount": 1752,
+          "title": "「宇宙戦艦ヤマト」“第3次改装型”発進！リアルな船体は内蔵LEDで発光　オトナのインテリアにも◎(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000006-anmanmv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/8173abb874b2bf7314b0062b0a7ab0d9814a5839?source=rss",
+          "author": null,
+          "description": "世界初となる『DRAGON BALL（ドラゴンボール）』商品が一同に集まるストア「DRAGON BALL STORE TOKYO」が、2025年11月14日より東京駅一番街1階にオープンする。このたび",
+          "link": "https://news.yahoo.co.jp/articles/8173abb874b2bf7314b0062b0a7ab0d9814a5839?source=rss",
+          "publishedOn": "2025-10-31T03:40:24.000Z",
+          "wordCount": 1868,
+          "title": "「ドラゴンボール」孫悟空と龍がお出迎え！“四星球”の飴ケースも♪ 世界初のストアが11月14日より東京駅にオープン(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000005-anmanmv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/981e039d4a956e91087a59add9aa6e21661e95d1?source=rss",
+          "author": null,
+          "description": "バーチャルライバーグループ「にじさんじ」所属の大人気ユニット・VOLTACTION（ヴォルタクション）が撮り下ろしビジュアルでスペシャルエディションの表紙を飾る、女性グラビア週刊誌「anan」の247",
+          "link": "https://news.yahoo.co.jp/articles/981e039d4a956e91087a59add9aa6e21661e95d1?source=rss",
+          "publishedOn": "2025-10-31T03:15:04.000Z",
+          "wordCount": 1793,
+          "title": "「にじさんじ」VOLTACTIONが撮り下ろしビジュアルで「anan」表紙に！ソロQ＆A＆座談会、オフショットも掲載(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000004-anmanmv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5782bcb2a6936c1ee089af27b9866a3ec5da06ca?source=rss",
+          "author": null,
+          "description": "東京ディズニーランドと東京ディズニーシーではハロウィーン当日の2025年10月31日（金）まで、スペシャルイベント「ディズニー・ハロウィーン」を開催中です。パークの一年でも最高の盛り上がりを見せる季節",
+          "link": "https://news.yahoo.co.jp/articles/5782bcb2a6936c1ee089af27b9866a3ec5da06ca?source=rss",
+          "publishedOn": "2025-10-31T03:10:12.000Z",
+          "wordCount": 1702,
+          "title": "ハロウィン本番！超人気パレード＆アトモス、楽しい全身仮装で盛り上がる秋の東京ディズニーリゾート(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000003-anmanmv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/5bfe24ee48a9b1f144b91e4a36ac90408fde0cf7?source=rss",
+          "author": null,
+          "description": "『ちいかわ』とファミリーレストラン「ココス」のコラボレーション企画が、2025年12月10日まで期間限定で開催中です。コラボメニューやオリジナルグッズのほか、ラッピング装飾店も登場。今回は、ココス平和",
+          "link": "https://news.yahoo.co.jp/articles/5bfe24ee48a9b1f144b91e4a36ac90408fde0cf7?source=rss",
+          "publishedOn": "2025-10-31T03:00:04.000Z",
+          "wordCount": 1718,
+          "title": "ちいかわ、ハチワレ、うさぎたちが店内にいっぱい！ ココス平和台店へようこそ♪ 【フォトレポ】(アニメ！アニメ！)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251031-00000002-anmanmv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/6208576aca6b7577d898796d613b692f7fb23c2d?source=rss",
           "author": null,
@@ -11217,136 +11537,6 @@
           "wordCount": 2135,
           "title": "“コーヒー”キャラといえば？3位「東京喰種」金木研、2位「名探偵コナン」安室透、1位「プロセカ」青柳冬弥(アニメ！アニメ！)",
           "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251003-00000001-anmanmv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/42fef19c1ec25793dad88f3ac7c9fcdbac97abf3?source=rss",
-          "author": null,
-          "description": "『魔法使いの嫁』を題材にしたビジュアルノベルゲーム「魔法使いの嫁　盛夏の幻と夢見る旅路」が、2025年10月2日発売となった。\n\n『魔法使いの嫁』は、WEBマンガサイト「コミックグロウル」にて連載中の",
-          "link": "https://news.yahoo.co.jp/articles/42fef19c1ec25793dad88f3ac7c9fcdbac97abf3?source=rss",
-          "publishedOn": "2025-10-02T12:20:45.000Z",
-          "wordCount": 1722,
-          "title": "「魔法使いの嫁」ビジュアルノベルゲーム「盛夏の幻と夢見る旅路」発売！原作マンガの全話無料公開企画も(アニメ！アニメ！)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000013-anmanmv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/21fd83e7a64693efc13529dae794e3b4ec55585e?source=rss",
-          "author": null,
-          "description": "『GHOST IN THE SHELL/攻殻機動隊 4Kリマスター版』が劇場公開30周年を記念し、「Filmarks（フィルマークス）」主催のリバイバル上映プロジェクトの一環として2025年10月31",
-          "link": "https://news.yahoo.co.jp/articles/21fd83e7a64693efc13529dae794e3b4ec55585e?source=rss",
-          "publishedOn": "2025-10-02T10:30:03.000Z",
-          "wordCount": 1816,
-          "title": "押井守「GHOST IN THE SHELL/攻殻機動隊」公安9課のIDカードが入プレに！10月31日よりリバイバル上映(アニメ！アニメ！)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000012-anmanmv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/359003e77f3b6479ed0a00cedc30c28e8aa28634?source=rss",
-          "author": null,
-          "description": "TVアニメ『薬屋のひとりごと』のPOP-UP STOREが、2025年10月3日に新規オープンする未来屋書店須坂店にて開催決定。2025年10月3日から2025年10月29日までの期間限定で、さまざま",
-          "link": "https://news.yahoo.co.jp/articles/359003e77f3b6479ed0a00cedc30c28e8aa28634?source=rss",
-          "publishedOn": "2025-10-02T10:15:03.000Z",
-          "wordCount": 1750,
-          "title": "「薬屋のひとりごと」壬氏様の学生服から軍を率いる姿まで♪ 世界観にどっぷり浸れるPOP-UP STORE開催決定(アニメ！アニメ！)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000011-anmanmv-000-2-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/64c6450c575a75ed5e1b70ad5a5e38e31863172a?source=rss",
-          "author": null,
-          "description": "アニメ『葬送のフリーレン』キャラクターを『ポプテピピック』の大川ぶくぶが描いたオリジナルイラストを使用した、「アクリルスタンド」などのグッズが登場。ビックカメラとアニメガ×ソフマップの一部店舗にて先行",
-          "link": "https://news.yahoo.co.jp/articles/64c6450c575a75ed5e1b70ad5a5e38e31863172a?source=rss",
-          "publishedOn": "2025-10-02T10:00:03.000Z",
-          "wordCount": 1672,
-          "title": "「葬送のフリーレン」ヒンメルやフェルンを「ポプテピ」大川ぶくぶが描く♪ オリジナルグッズ登場(アニメ！アニメ！)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000010-anmanmv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/a208c1e12f315ba11cd2e8a3554258e0c45b42bc?source=rss",
-          "author": null,
-          "description": "『オッドタクシー』を手掛けた木下麦と此元和津也のタッグとスタジオCLAPによるオリジナルアニメ映画『ホウセンカ』が、2025年10月10日より公開される。このたび10月4日に、小林薫、戸塚純貴、満島ひ",
-          "link": "https://news.yahoo.co.jp/articles/a208c1e12f315ba11cd2e8a3554258e0c45b42bc?source=rss",
-          "publishedOn": "2025-10-02T09:45:03.000Z",
-          "wordCount": 1808,
-          "title": "映画「ホウセンカ」キャスト出演の特別番組が放送！「東京国際映画祭」への正式出品も決定(アニメ！アニメ！)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000009-anmanmv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/9b31061a98f10b956fcddd2c7cf9d2d1ad3746d5?source=rss",
-          "author": null,
-          "description": "秋アニメ『不器用な先輩。』より、2025年10月2日（木）から放送開始となる第1話「ウチが教育係！？」のあらすじと先行場面カットが公開された。\n\n『不器用な先輩。』は、スクウェア・エニックス「ヤングガ",
-          "link": "https://news.yahoo.co.jp/articles/9b31061a98f10b956fcddd2c7cf9d2d1ad3746d5?source=rss",
-          "publishedOn": "2025-10-02T09:30:04.000Z",
-          "wordCount": 1791,
-          "title": "秋アニメ「不器用な先輩。」コミュニケーション下手な鉄輪（CV.Lynn）は、期待の新人・侑（CV.坂田将吾）の教育係を任され…第1話先行カット(アニメ！アニメ！)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000008-anmanmv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/5d8e054e0524b9c74ae60f4c83f8790a940f25a6?source=rss",
-          "author": null,
-          "description": "秋アニメ『太陽よりも眩しい星』より、2025年10月2日（木）から放送開始となる第1話「手を伸ばした日」のあらすじと先行場面カットが公開された。\n\n『太陽よりも眩しい星』は、『俺物語!!』（作画：アル",
-          "link": "https://news.yahoo.co.jp/articles/5d8e054e0524b9c74ae60f4c83f8790a940f25a6?source=rss",
-          "publishedOn": "2025-10-02T09:15:04.000Z",
-          "wordCount": 1728,
-          "title": "秋アニメ「太陽よりも眩しい星」初恋の男の子・光輝（CV.小野友樹）と急接近!? 朔英（CV.藤寺美徳）の長年の片想いが動き出す…第1話先行カット(アニメ！アニメ！)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000007-anmanmv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/6b09f86c70da5ead27c96440b200977aead724f0?source=rss",
-          "author": null,
-          "description": "秋アニメ『悪食令嬢と狂血公爵』より、2025年10月2日（木）から放送開始となる第1話「干し肉は約束の証 ～スカッツビット～」のあらすじと先行場面カットが公開された。\n\n『悪食令嬢と狂血公爵』は、「K",
-          "link": "https://news.yahoo.co.jp/articles/6b09f86c70da5ead27c96440b200977aead724f0?source=rss",
-          "publishedOn": "2025-10-02T09:00:03.000Z",
-          "wordCount": 1853,
-          "title": "秋アニメ「悪食令嬢と狂血公爵」ガルブレイス公爵（CV.坂泰斗）に魔獣から救われたメルフィエラ（CV.中村カンナ）は…？第1話先行カット(アニメ！アニメ！)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000006-anmanmv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/bb2ff8d9b5d928819defec80416384fa3234fafd?source=rss",
-          "author": null,
-          "description": "10月1日はメガネの日です。\n\n漢数字の「一〇〇一」がメガネの形に見えることから、日本眼鏡関連団体協議会が1997年に制定しました。\n\nアニメにもメガネをかけているキャラクターはよく登場します。複数の",
-          "link": "https://news.yahoo.co.jp/articles/bb2ff8d9b5d928819defec80416384fa3234fafd?source=rss",
-          "publishedOn": "2025-10-02T08:30:17.000Z",
-          "wordCount": 2091,
-          "title": "“メガネ”キャラといえば？ 3位「ハイキュー!!」月島蛍、2位「名探偵コナン」江戸川コナン、「銀魂」志村新八(アニメ！アニメ！)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000005-anmanmv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/b63653782ea312bda393b335121567a8f02f747d?source=rss",
-          "author": null,
-          "description": "秋アニメ『私を喰べたい、ひとでなし』より、2025年10月2日（木）から放送開始となる第1話「死にたがりの彼女は海を待つ」のあらすじと、先行場面カットを使用した“エモーショナルポスター”が公開された。",
-          "link": "https://news.yahoo.co.jp/articles/b63653782ea312bda393b335121567a8f02f747d?source=rss",
-          "publishedOn": "2025-10-02T08:30:08.000Z",
-          "wordCount": 1712,
-          "title": "アニメ「私を喰べたい、ひとでなし」死を望む少女・比名子（CV.上田麗奈）は海のような瞳をした少女と出会い…第1話先行カット(アニメ！アニメ！)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000004-anmanmv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/5796873d327cf44afe3da81f99bae689cdff01ae?source=rss",
-          "author": null,
-          "description": "『劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師』が、2025年12月5日から再上映されることが決定した。通常版と4DX版の再上映に加え、新たに制作されたドルビーシネマ版での上映も行われる。また、本編",
-          "link": "https://news.yahoo.co.jp/articles/5796873d327cf44afe3da81f99bae689cdff01ae?source=rss",
-          "publishedOn": "2025-10-02T08:30:03.000Z",
-          "wordCount": 1969,
-          "title": "「劇場版 忍たま ドクタケ忍者隊最強の軍師」再上映へ！週替わりボイスムービー＆新規入プレが登場(アニメ！アニメ！)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000003-anmanmv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/c6b9f441cc062c0fd46e44a0683f874c9a8272ec?source=rss",
-          "author": null,
-          "description": "『劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来』が現在公開中だ。このたびそのアミューズメント専用景品（プライズ）として「鬼オンスナックBIG缶（猗窩座）」が登場。2025年10月5週より、全国のゲー",
-          "link": "https://news.yahoo.co.jp/articles/c6b9f441cc062c0fd46e44a0683f874c9a8272ec?source=rss",
-          "publishedOn": "2025-10-02T08:15:09.000Z",
-          "wordCount": 1767,
-          "title": "「鬼滅の刃 無限城編」猗窩座 “さあ買おうか？宴の時間だ”― 美麗＆大迫力のデザイン缶登場！鬼オン（オニオン）スナック入り♪(アニメ！アニメ！)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000002-anmanmv-000-1-view.jpg?exp=10800"
-        },
-        {
-          "id": "https://news.yahoo.co.jp/articles/76b25832f62a79dc6fcd6770cdf81943f1faf81d?source=rss",
-          "author": null,
-          "description": "「少年ジャンプ＋」にて連載中のマンガ『幼稚園WARS』のTVアニメ化が決定した。リタ役で種崎敦美（崎は「たつさき」、以下同）、ダグ役で熊谷健太郎が出演する。発表に伴い種崎と熊谷からコメント、原作者の千",
-          "link": "https://news.yahoo.co.jp/articles/76b25832f62a79dc6fcd6770cdf81943f1faf81d?source=rss",
-          "publishedOn": "2025-10-02T08:00:04.000Z",
-          "wordCount": 1688,
-          "title": "「幼稚園WARS」アニメ化！ 種崎敦美＆熊谷健太郎が出演 「少年ジャンプ＋」連載のバイオレンス×ラブコメ(アニメ！アニメ！)",
-          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20251002-00000001-anmanmv-000-1-view.jpg?exp=10800"
         }
       ]
     },
@@ -11355,6 +11545,66 @@
       "feedUrl": "http://www.nikaidou.com/feed/",
       "siteUrl": "https://www.nikaidou.com",
       "articles": [
+        {
+          "id": "https://www.nikaidou.com/?p=186964",
+          "author": "二階堂",
+          "description": "furyu-hm.com/products/tnl-48tebxkp\nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/186964",
+          "publishedOn": "2025-11-01T01:39:45.000Z",
+          "wordCount": 1367,
+          "title": "妹",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nikaidou.com/?p=186962",
+          "author": "二階堂",
+          "description": "これで行けると思う？ 今年はやりたい 登記山岳訓練 喘息治ればの話だけど。。。  ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/186962",
+          "publishedOn": "2025-11-01T01:34:34.000Z",
+          "wordCount": 1400,
+          "title": "川の水の浄水",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nikaidou.com/?p=186961",
+          "author": "二階堂",
+          "description": "そしてiPhone完全に壊れた。。。熱暴走よくするなあと思ってたけど。 ホント電 ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/186961",
+          "publishedOn": "2025-11-01T00:29:22.000Z",
+          "wordCount": 1379,
+          "title": "モニター死んだ",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nikaidou.com/?p=186959",
+          "author": "二階堂",
+          "description": "UTAMARO PEPPER　11月出店のマルシェ　スケジュール　確定\u001f ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/186959",
+          "publishedOn": "2025-10-31T17:37:44.000Z",
+          "wordCount": 1410,
+          "title": "胡椒茶買いに行かなくちゃ！！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nikaidou.com/?p=186957",
+          "author": "二階堂",
+          "description": "これ次の次あたりの決算が怖いなー\nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/186957",
+          "publishedOn": "2025-10-31T08:02:52.000Z",
+          "wordCount": 1395,
+          "title": "引き続き補助金に関する働きかけをきちんと行うように。。。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.nikaidou.com/?p=186956",
+          "author": "二階堂",
+          "description": "不細工のババアが死んで　せいせいしたわ　という　歌だそうです　島津忠恒\nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
+          "link": "https://www.nikaidou.com/archives/186956",
+          "publishedOn": "2025-10-31T05:01:51.000Z",
+          "wordCount": 1393,
+          "title": "あたし世の 雲かくれ行 神無月 しくるる袖のいつはりもかな",
+          "imageUrl": null
+        },
         {
           "id": "https://www.nikaidou.com/?p=186954",
           "author": "二階堂",
@@ -14729,101 +14979,6 @@
           "wordCount": 1366,
           "title": "やはり良くない　肺炎",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.nikaidou.com/?p=186364",
-          "author": "二階堂",
-          "description": "メモ\nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
-          "link": "https://www.nikaidou.com/archives/186364",
-          "publishedOn": "2025-10-02T13:24:02.000Z",
-          "wordCount": 1380,
-          "title": "門脇さんね",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nikaidou.com/?p=186362",
-          "author": "二階堂",
-          "description": "長崎市長を撃ったヒットマンは念入りに打ち合わせしたそうだよ。歩く歩数から何もかも ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
-          "link": "https://www.nikaidou.com/archives/186362",
-          "publishedOn": "2025-10-02T09:10:10.000Z",
-          "wordCount": 1399,
-          "title": "気絶する前に",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nikaidou.com/?p=186360",
-          "author": "二階堂",
-          "description": "基本的にあまり命なんてどうでもいいと思っているから やらないと思うだろ？ やるん ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
-          "link": "https://www.nikaidou.com/archives/186360",
-          "publishedOn": "2025-10-02T08:56:02.000Z",
-          "wordCount": 1393,
-          "title": "クマでも人でも殺してやる",
-          "enclosure": {
-            "url": "https://www.nikaidou.com/wp-content/uploads/2025/10/1759395249997.mp4",
-            "length": "3027586",
-            "type": "video/mp4"
-          },
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nikaidou.com/?p=186359",
-          "author": "二階堂",
-          "description": "俺全くおすすめしない。 まずは金を稼げる仕事の方がいい。それでこそ自由にいろいろ ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
-          "link": "https://www.nikaidou.com/archives/186359",
-          "publishedOn": "2025-10-02T03:11:31.000Z",
-          "wordCount": 1379,
-          "title": "つぶしがきかないから、警察官になるのはやめた方がいい",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nikaidou.com/?p=186355",
-          "author": "二階堂",
-          "description": "遊びで射撃してみたい人も、本気で習いたい人も。撃つならキャプテン中井に教えてもら ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
-          "link": "https://www.nikaidou.com/archives/186355",
-          "publishedOn": "2025-10-02T02:54:50.000Z",
-          "wordCount": 1464,
-          "title": "ちょとだけ更新2〜遊びから本気まで。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nikaidou.com/?p=186353",
-          "author": "二階堂",
-          "description": "2日空けて、本日も訓練。だいぶ回復したが立射が全然できなかった。さすがに肺炎1ヶ ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
-          "link": "https://www.nikaidou.com/archives/186353",
-          "publishedOn": "2025-10-02T02:35:19.000Z",
-          "wordCount": 1430,
-          "title": "ちょとだけ更新〜1  キャプテン中井による訓練2日目",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nikaidou.com/?p=186352",
-          "author": "nikaidoutest",
-          "description": "イギリス。多様性があるチキン屋。ナタで襲撃 t.co/NiGiQDNBCT （  ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
-          "link": "https://www.nikaidou.com/archives/186352",
-          "publishedOn": "2025-10-02T02:03:32.000Z",
-          "wordCount": 1391,
-          "title": "日本はこうなるよ。。。。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nikaidou.com/?p=186347",
-          "author": "二階堂",
-          "description": "imbサプリは常に持ち歩いているが、これだけアガリクスから何から取ってて病気にな ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
-          "link": "https://www.nikaidou.com/archives/186347",
-          "publishedOn": "2025-10-01T16:00:40.000Z",
-          "wordCount": 1388,
-          "title": "きのこのチカラ。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.nikaidou.com/?p=186346",
-          "author": "二階堂",
-          "description": "『魔法少女リリカルなのは』シリーズの完全新作テレビアニメ『魔法少女リリカルなのは ... \nCopyright © 2025 二階堂ドットコム All Rights Reserved.",
-          "link": "https://www.nikaidou.com/archives/186346",
-          "publishedOn": "2025-10-01T14:55:35.000Z",
-          "wordCount": 1388,
-          "title": "A’ｓ痛車作成予定。。。",
-          "imageUrl": null
         }
       ]
     },
@@ -14832,6 +14987,156 @@
       "feedUrl": "http://blog.livedoor.jp/dqnplus/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2054729.html",
+          "author": "takakichi5346",
+          "description": "1 名前：：：2025/10/31(金) 14:55:00.95 ID:NYTatg7L0●.net PLT(17930)\n\n\n\n\n\n\n\n秋田市、クマ捕獲に1頭当たり1万円の報奨金　公務員ハンターも募集 https://t.co/TsM3G4teDV 報奨金の支給は本年度限りで、狩猟期間の11月1日～来年2月15日までの捕獲が対象。個体数の減少...",
+          "link": "https://itainews.com/archives/2054729.html",
+          "publishedOn": "2025-11-01T00:01:20.000Z",
+          "wordCount": 3298,
+          "title": "秋田市、クマ捕獲に報奨金　公務員ハンターも募集　報酬も現行の4千円から8千円に倍増",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/6/56f86c98-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2054721.html",
+          "author": "takakichi5346",
+          "description": "1 名前：：：2025/10/31(金) 13:05:05.63 ID:XeAOUcHI0.net[1/5] 2BP(2000)\n\n\n\n\n\n\n\nこういう都内のウサギ小屋みたいな狭い家で一生懸命オシャレにしようとしてる人見るとマジで見てて恥ずかしくなるし切ない…普通の散らかった部屋よりも見てて痛々しい… https://t.co/J...",
+          "link": "https://itainews.com/archives/2054721.html",
+          "publishedOn": "2025-10-31T23:04:01.000Z",
+          "wordCount": 3765,
+          "title": "【大炎上🔥】X女「東京の狭い部屋で無理してお洒落、痛すぎる」→都民の逆鱗に触れてしまう",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/2/3260b1c4-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2054713.html",
+          "author": "takakichi5346",
+          "description": "1 名前：：：2025/10/31(金) 11:34:13.25 ID:HdXsHGMA0●.net PLT(13500)\n\n\n\n\n\n\n\n田久保・伊東市長の2度目の不信任案、きょう可決へ　どうなる市長選 https://t.co/yvtqe3732V— 朝日新聞(asahi shimbun） (@asahi) October 31, 2025 \n\n\n\n\n\n\n静岡県の伊東市議会（定数20...",
+          "link": "https://itainews.com/archives/2054713.html",
+          "publishedOn": "2025-10-31T22:00:40.000Z",
+          "wordCount": 3152,
+          "title": "【田久保市長】失職へ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/7/5778e096-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2054728.html",
+          "author": "damono3856",
+          "description": "1 名前：蚤の市 ★：2025/10/31(金) 13:59:05.76 ID:jeqnqN+x9.net\n\n\n\n\n\n\n\n自転車「2千台盗んだ」　東京の男性窃盗疑い逮捕、売却かhttps://t.co/PiXbsb95hx下手すりゃ200万越えのやつがそこいらに軽く置いてあるからな…— Indy India (@IndyIndia) October 31, 2025  \n...",
+          "link": "https://itainews.com/archives/2054728.html",
+          "publishedOn": "2025-10-31T14:02:41.000Z",
+          "wordCount": 3337,
+          "title": "自転車「2千台盗んだ」　東京の男性窃盗疑い逮捕、売却か",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/c/1c270b95-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2054715.html",
+          "author": "damono3856",
+          "description": "1 名前：首都圏の虎 ★：2025/10/31(金) 08:13:52.10 ID:QVASqQxQ9.net\n\n\n\n\n\n\n\n古舘伊知郎、国会ヤジ巡り持論「立憲のヤジが非難されてる。俺は的確なこと言ったと思ってるよ」 https://t.co/WVIPfWDO6L— ニッカンエンタメ・プレミアム (@nikkan_entame) October 30, 20...",
+          "link": "https://itainews.com/archives/2054715.html",
+          "publishedOn": "2025-10-31T13:03:55.000Z",
+          "wordCount": 4150,
+          "title": "古舘伊知郎、国会ヤジ巡り持論「立憲のヤジが非難されてる。俺は的確なこと言ったと思ってるよ」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/9/b950f701-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2054714.html",
+          "author": "damono3856",
+          "description": "1 名前：：2025/10/31(金) 10:35:10.73 ID:umnWoM510●.net\n\n\n\n\n\n\n\n現　実　逃　避　炸　裂 https://t.co/JW7Nn9XwXv— 東郷ゆう子の旦那 (@togootto) October 30, 2025",
+          "link": "https://itainews.com/archives/2054714.html",
+          "publishedOn": "2025-10-31T12:02:25.000Z",
+          "wordCount": 5072,
+          "title": "パさん「高市を批判すれば猛烈な批判に晒され褒め称えれば異常ないいね。あまりにお粗末なネット工作」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/4/a4f2dc8e-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2054725.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2025/10/31(金) 14:29:37.21 ID:ZP0l8Z919.net\n\n\n\n\n\n\n\n【クマ出没情報】クマが飛び出しパトカーに衝突…磐梯町の磐梯山ゴールドライン　31日午前4時半すぎ　福島（TUFテレビユー福島）#Yahooニュース https://t.co/MRnJ7Hdjhf— 🕘時の管理者🕒(ときプ...",
+          "link": "https://itainews.com/archives/2054725.html",
+          "publishedOn": "2025-10-31T11:31:14.000Z",
+          "wordCount": 2839,
+          "title": "【クマ出没情報】クマが飛び出しパトカーに衝突…磐梯町の磐梯山ゴールドライン　31日午前4時半すぎ　福島",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/2/22a5c2ea-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2054712.html",
+          "author": "damono3856",
+          "description": "1 名前：煮卵 ★：2025/10/31(金) 10:45:52.53 ID:3yfDXl4z9.net\n\n\n\n\n\n\n\n生成AI、「期待した効果なし」経営者の4割以上が回答　なぜか？https://t.co/ty904jJtcJ— ITmedia ビジネスオンライン (@itm_business) October 31, 2025  \n\n\n\n\n\n\n　企業は生成AIの導入で期待する...",
+          "link": "https://itainews.com/archives/2054712.html",
+          "publishedOn": "2025-10-31T11:01:34.000Z",
+          "wordCount": 3753,
+          "title": "【生成AI】「期待した効果なし」経営者の4割以上が回答… 「活用方法が分からない」「AI人材の不足」がトップ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/c/fc68d35f-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2054724.html",
+          "author": "nobi0929",
+          "description": "1 名前：冬月記者 ★：2025/10/31(金) 00:18:18.26 ID:jEqV6Uiu9.net\n\n\n\n\n\n\n\nホリエモン、そもそも転売って何が悪いの？「“高くて買えない”は貧乏人の発想でしょ」(スポニチアネックス)#Yahooニュースhttps://t.co/s7Z0khz51j— 森夢（改名前モリ） (@F8GpmBcgQ5OJzhN)...",
+          "link": "https://itainews.com/archives/2054724.html",
+          "publishedOn": "2025-10-31T10:30:13.000Z",
+          "wordCount": 4655,
+          "title": "ホリエモン、「そもそも転売の何がそんなに悪いの？」「高くて買えないは貧乏人の発想でしょ」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/e/1e361403-s.jpg"
+        },
+        {
+          "id": "https://itainews.com/archives/2054711.html",
+          "author": "damono3856",
+          "description": "1 名前：：2025/10/30(木) 23:07:22.92 ID:0/wzH++40●.n\n\n\n\n\n\n\n\n这Geely车要火！刚提的新车轮子就掉了！10月29日，刚从4S店提出来的新车还未到家，轻轻擦碰一下，轮子都掉了。 pic.twitter.com/A8LO2F6IjF— 希望之聲 - 中國時局 (@SoundOfHope_SOH) October 30, 2025 \n...",
+          "link": "https://itainews.com/archives/2054711.html",
+          "publishedOn": "2025-10-31T10:02:54.000Z",
+          "wordCount": 3198,
+          "title": "中国の新車、ディーラーから納車された直後に前輪の足回りまるごと外れる",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/7/379bbd8d-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2054710.html",
+          "author": "damono3856",
+          "description": "1 名前：：2025/10/31(金) 07:13:29.68 ID:IiH3LH5g0●.net\n\n\n\n\n\n\n\n「高市政権が終われば復縁も……」　連立離脱「公明党」の揺れる心https://t.co/srrBAS5df7#デイリー新潮— デイリー新潮 (@dailyshincho) October 30, 2025  \n\n\n\n\n\n\n連立離脱の公明党、「高市政権が終...",
+          "link": "https://itainews.com/archives/2054710.html",
+          "publishedOn": "2025-10-31T09:03:21.000Z",
+          "wordCount": 4161,
+          "title": "連立離脱の公明党、「高市政権が終われば復縁も……」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/9/990da9a6-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2054708.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2025/10/30(木) 22:41:15.07 ID:IgaVoZSl9.net\n\n\n\n\n\n\n\n【独自】渦中の副議長が激白「僕は悪くない」北海道積丹町の猟友会\"出動拒否\" クマ出没頻発も問題長期化へ #北海道 #HTB北海道ニュース https://t.co/l9yFJNOytF— HTB北海道ニュース (@...",
+          "link": "https://itainews.com/archives/2054708.html",
+          "publishedOn": "2025-10-31T08:01:35.000Z",
+          "wordCount": 4375,
+          "title": "【（・(ｪ)・）】渦中の副議長が激白「僕は悪くない」北海道積丹町の猟友会\"出動拒否\" クマ出没頻発も問題長期化へ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/0/70c8ea0e-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2054719.html",
+          "author": "nobi0929",
+          "description": "1 名前：Hitzeschleier ★：2025/10/31(金) 07:40:31.76 ID:vG43+ZgZ9.net\n\n\n\n\n\n\n\n山上徹也被告は銃の売人にカネをだまし取られて銃を密造していた　 安倍元首相銃撃裁判 https://t.co/AlH5xV6RUm— AERA DIGITAL (@dot_asahi_pub) October 30, 2025 \n\n\n\n\n\n\n\n\n\n\n ■「世...",
+          "link": "https://itainews.com/archives/2054719.html",
+          "publishedOn": "2025-10-31T07:30:39.000Z",
+          "wordCount": 4528,
+          "title": "山上徹也被告「巨悪あり。法これを裁けず。世の捨て石となるための覚悟と信念のためにこれを記す」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/5/55173f30-s.jpg"
+        },
+        {
+          "id": "https://itainews.com/archives/2054707.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2025/10/30(木) 20:45:07.65 ID:IgaVoZSl9.net\n\n\n\n\n\n\n\n｢まるで参政党と戦っている様な選挙｣宮城県知事選挙の勝利者インタビューで村井知事は、僅差で敗北した和田候補を応援していた参政党に対し融和的な発言をした後｢社交辞令に決まってるだろ｣的な感...",
+          "link": "https://itainews.com/archives/2054707.html",
+          "publishedOn": "2025-10-31T06:02:04.000Z",
+          "wordCount": 3526,
+          "title": "【(´ڡ`)】「さすがに舐めてる」宮城・村井知事　参政・神谷代表に“ノーサイド宣言”直後に舌をペロり…煽り仕草に批判続出",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/a/ca6221e6.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2054703.html",
+          "author": "dqnplus",
+          "description": "1 ：2025/10/30(木) 19:21:32.76 ID:XED1y7/a0●.net\n\n\n\n\n\n\n\n\n\nお、せやなpic.twitter.com/1mdzCSYqIn https://t.co/l1uJcTXein— 楽韓Web (@rakukan_vortex) October 29, 2025",
+          "link": "https://itainews.com/archives/2054703.html",
+          "publishedOn": "2025-10-31T05:31:12.000Z",
+          "wordCount": 3602,
+          "title": "【悲報】　蓮舫 「笑顔で飛び跳ねない、演出ではない政治を求めます」 ← 選挙演説で飛び跳ねてました",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/b/fb6ca441-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2054686.html",
           "author": "takakichi5346",
@@ -19061,166 +19366,6 @@
           "wordCount": 3501,
           "title": "【大阪】元技能実習生の中国人ら数名を違法に働かせたか 「中国朝市」の経営者とその息子を逮捕・送検　大東市",
           "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/e/8efe8d07-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2053734.html",
-          "author": "damono3856",
-          "description": "1 名前：muffin ★：2025/10/02(木) 00:11:50.58 ID:Y89CZJ2J9.net\n\n\n\n\n\n\n\n「ダサい中年男性」はだいたい身に着けている“時代遅れなアウター“ワースト5 @MBKnowerMag https://t.co/fvblOF89fL #SPA!— 週刊SPA!・日刊SPA!・MySPA! (@weekly_SPA) October 1, 2025  \n\n\n\n...",
-          "link": "https://itainews.com/archives/2053734.html",
-          "publishedOn": "2025-10-02T13:02:34.000Z",
-          "wordCount": 4548,
-          "title": "「ダサい中年男性」はだいたい身に着けている“時代遅れなアウター“ワースト5",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/4/c41ab16d-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2053733.html",
-          "author": "damono3856",
-          "description": "1 名前：ぐれ ★：2025/10/02(木) 09:43:24.28 ID:OrQz9hD19.net\n\n\n\n\n\n\n\n《元草津町議・新井祥子被告に有罪判決の裏で》金銭トラブルにあった原告男性が謎の死を遂げていた…「チンピラに待ち伏せされて怯えていた」と知人が証言https://t.co/pPAbHthzyE「約束の返済は一...",
-          "link": "https://itainews.com/archives/2053733.html",
-          "publishedOn": "2025-10-02T12:01:12.000Z",
-          "wordCount": 3104,
-          "title": "【元草津町議・新井祥子被告に有罪判決】金銭トラブルにあった原告男性が謎の死を遂げていた…「チンピラに待ち伏せされて怯えていた」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/7/47f63505-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2053732.html",
-          "author": "damono3856",
-          "description": "1 名前：ぐれ ★：2025/10/02(木) 09:39:50.70 ID:OrQz9hD19.net\n\n\n\n\n\n\n\n「外来種」タヌキがウミガメの子を食い荒らす　世界遺産屋久島で被害 https://t.co/zP8Q01UYEf 世界有数のウミガメの産卵地として知られる世界自然遺産の屋久島（鹿児島県）。その砂浜で孵化（ふか...",
-          "link": "https://itainews.com/archives/2053732.html",
-          "publishedOn": "2025-10-02T11:03:08.000Z",
-          "wordCount": 3273,
-          "title": "【鹿児島】「国内外来種」タヌキがウミガメの子を食い荒らす　世界遺産屋久島で被害",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/4/24883c63-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2053738.html",
-          "author": "damono3856",
-          "description": "1 名前：少考さん ★：2025/10/02(木) 14:30:55.52 ID:ioXVqu+X9.net\n\n\n\n\n\n\n\n【速報】愛子さま新型コロナ感染　5日からの滋賀県訪問は取りやめ　国民スポーツ大会出席の予定だった　天皇皇后両陛下も必要に応じて検査へ(日テレNEWS NNN)#Yahooニュースhttps://t.co/RWcNP...",
-          "link": "https://itainews.com/archives/2053738.html",
-          "publishedOn": "2025-10-02T10:31:48.000Z",
-          "wordCount": 3067,
-          "title": "愛子さま新型コロナ感染　5日からの滋賀県訪問は取りやめ、国民スポーツ大会出席の予定だった　天皇皇后両陛下も検査へ",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/8/888f6701-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2053726.html",
-          "author": "damono3856",
-          "description": "1 名前：：2025/10/01(水) 22:06:51.63 ID:3NbY/fTk0.net\n\n\n\n\n\n\n\n「現実逃避するため北海道に来た」日本最北端・宗谷岬にいたる道路を\"全裸\"で歩いていた会社員の27歳男を現行犯逮捕＿神奈川県から\"逃避行\"の旅か〈北海道稚内市〉(北海道ニュースUHB)#Yahooニュースhttps...",
-          "link": "https://itainews.com/archives/2053726.html",
-          "publishedOn": "2025-10-02T10:03:28.000Z",
-          "wordCount": 3084,
-          "title": "神奈川・27歳会社員「はあ…現実逃避したいな…」 →北海道の国道を全裸で歩いて逮捕",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/2/c2bc7007-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2053725.html",
-          "author": "damono3856",
-          "description": "1 名前：：2025/10/01(水) 23:49:56.10 ID:GVHBJMm40.net\n\n\n\n\n\n\n\n不正乗車を指摘した駅員に暴行し逃げたとされる男(30)　懲役6年の実刑判決　追徴金など240円を支払わず　駅員は加療約1年の大けが　広島地裁 | RCC NEWS | 広島ニュース | RCC中国放送 https://t.co/Pwi6m...",
-          "link": "https://itainews.com/archives/2053725.html",
-          "publishedOn": "2025-10-02T09:03:16.000Z",
-          "wordCount": 3111,
-          "title": "【広島】不正乗車を指摘した駅員を暴行し骨折させ追徴金240円を支払わず…男に懲役6年の実刑判決",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/0/901381f2-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2053731.html",
-          "author": "damono3856",
-          "description": "1 名前：：2025/10/02(木) 03:56:06.33 ID:HptiDRKp0.net\n\n\n\n\n\n\n\n今の日本で「日本人差別」「男性差別」「自衛隊差別」は存在しません、という話です。ネトウヨの皆さん向けに、なるべく簡単に説明しました。 https://t.co/96zF0pcPdd— 阿部岳 / ABE Takashi (@ABETakas...",
-          "link": "https://itainews.com/archives/2053731.html",
-          "publishedOn": "2025-10-02T08:02:19.000Z",
-          "wordCount": 4121,
-          "title": "【テコンダー】阿部岳「日本人・男性・自衛隊相手にはいくら差別しても差別にはならない」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/2/d2321f89-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2053716.html",
-          "author": "takakichi5346",
-          "description": "1 名前：：：2025/10/01(水) 20:42:21.21 ID:NhYT4+bo0●.net PLT(14121)\n\n\n\n\n\n\n\n運転手「ハンドル左なのに右へ」　総点検指示のEVバス、事故の瞬間：朝日新聞https://t.co/BM44pjuetChttps://t.co/BM44pjuetC— タン塩 (@kktskn_148) October 1, 2025 \n\n\n\n\n\n\n中国製の電...",
-          "link": "https://itainews.com/archives/2053716.html",
-          "publishedOn": "2025-10-02T07:01:22.000Z",
-          "wordCount": 3821,
-          "title": "中国製EVバスの運転手「ハンドルを左に切ったら右に流れた」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/6/2/62fc0258-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2053723.html",
-          "author": "damono3856",
-          "description": "1 名前：七波羅探題 ★：2025/10/01(水) 21:44:12.85 ID:kqjs0/pB9.net\n\n\n\n\n\n\n\n飲酒運転事故で受験生死亡　検察「控訴せず」　量刑不当で遺族が申し入れも　福島(TUFテレビユー福島)不服です。#Yahooニュースhttps://t.co/YCYsNkojUg— しおり@BLEACH推し (@u2_gws) Octo...",
-          "link": "https://itainews.com/archives/2053723.html",
-          "publishedOn": "2025-10-02T06:01:34.000Z",
-          "wordCount": 3439,
-          "title": "【福島】飲酒運転事故で受験生死亡　検察「控訴せず」　量刑不当で遺族が申し入れも",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/3/53ec5bea-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2053721.html",
-          "author": "dqnplus",
-          "description": "1 ：：2025/10/01(水) 19:49:41.87 ID:EWqtEhsT0●.net \n\n\n\n\n\n\n\n\n\n\n【SNSに誤情報「中国から800人を公務員として入れる」　福岡市が対応に苦慮　県内の“外国人めぐるデマ”相次ぐ】外国人をめぐるSNS上の誤った情報で、また福岡県内の自治体に問い合わせが相次いでいる...",
-          "link": "https://itainews.com/archives/2053721.html",
-          "publishedOn": "2025-10-02T04:31:20.000Z",
-          "wordCount": 3945,
-          "title": "「中国から800人を公務員として入れる」という最低最悪なデマが拡散され福岡市大混乱",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/f/3fadb4e6-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2053715.html",
-          "author": "takakichi5346",
-          "description": "1 名前：ぐれ ★：2025/10/01(水) 13:01:33.77 ID:QmGWyxdO9.net\n\n\n\n\n\n\n\n外国に買われた日本の農地　昨年だけでも東京ドーム37個分　前年の2倍　中国が最多https://t.co/VMkqbZIq2J— ハヤブサ (@8pvCME58dX26996) October 1, 2025 \n\n\n\n\n\n\n※2025/10/1 08:00\n産経新聞\n\n...",
-          "link": "https://itainews.com/archives/2053715.html",
-          "publishedOn": "2025-10-02T04:01:20.000Z",
-          "wordCount": 3606,
-          "title": "外国に買われた日本の農地　昨年だけでも東京ドーム37個分　前年の2倍　中国が最多　日本の農地は今後も大丈夫なのだろうか",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/8/0805a988-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2053714.html",
-          "author": "dqnplus",
-          "description": "1 ：：2025/10/01(水) 17:42:23.78 ID:45h1pGr50.net\n\n\n\n\n\n\n\n\n\nSNSで拡散「アフリカ出身学生が手首切断して財布奪う」は一部誤り　逮捕事実は「切りつけ」で全治5日間https://t.co/kQfghtJr8f— 東京新聞デジタル (@tokyo_shimbun) October 1, 2025 \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n...",
-          "link": "https://itainews.com/archives/2053714.html",
-          "publishedOn": "2025-10-02T03:31:11.000Z",
-          "wordCount": 3577,
-          "title": "東京新聞「アフリカ人が手首を切断し財布強奪はデマ！本当は盗んでから切りつけ！」結局の所強盗では？",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/7/774aa21d-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2053701.html",
-          "author": "takakichi5346",
-          "description": "1 名前：：：2025/10/01(水) 13:54:22.77 ID:fLTbf8w10.net 2BP(5000)\n\n\n\n\n\n\n\n小泉進次郎氏のトンチンカンが止まらない！「大学に行くのがすべてではない」「改憲はファストパス」まで飛び出す始末 https://t.co/XT7aY0ghCd #日刊ゲンダイDIGITAL— かず- (@kzooooo) Sep...",
-          "link": "https://itainews.com/archives/2053701.html",
-          "publishedOn": "2025-10-02T00:03:37.000Z",
-          "wordCount": 3720,
-          "title": "進次郎「大学に行くのが全てじゃない。地方の旅館は人手不足で困ってます。手に職を」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/d/5dcfa485-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2053700.html",
-          "author": "takakichi5346",
-          "description": "1 名前：それでも動く名無し：2025/10/01(水) 11:12:25.74 ID:9Rg7SUqm0.net\n\n\n\n\n\n\n\n〈14体もの遺体を重機で勝手に土葬〉…在日イスラム教徒による「闇土葬」に霊園管理者が「怒りの告発」 https://t.co/RaDqt6QCK5 #現代ビジネス— 現代ビジネス (@gendai_biz) Septembe...",
-          "link": "https://itainews.com/archives/2053700.html",
-          "publishedOn": "2025-10-01T23:02:46.000Z",
-          "wordCount": 3770,
-          "title": "【悲報】イスラム教徒さん、重機を使って霊園に許可なく１４体の遺体を勝手に土葬してしまう",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/5/f5348f3f-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2053697.html",
-          "author": "takakichi5346",
-          "description": "1 名前：：：2025/10/01(水) 08:44:55.19 ID:cO9qV2W+0●.net 2BP(2000)\n\n\n\n\n\n\n\n〈メール入手〉「リークしたのは誰だ？」進次郎陣営が犯人探しで疑心暗鬼に…「もはや内部では刺し合い」「みんな自分のポストがほしいだけ」https://t.co/Ek1kSIgja4— 集英社オンライン (...",
-          "link": "https://itainews.com/archives/2053697.html",
-          "publishedOn": "2025-10-01T22:00:55.000Z",
-          "wordCount": 3600,
-          "title": "【文春】「リークしたのは誰だ？」進次郎陣営が犯人探しで疑心暗鬼に…「もはや内部では刺し合い」",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/f/1f5f5152-s.png"
-        },
-        {
-          "id": "https://itainews.com/archives/2053707.html",
-          "author": "damono3856",
-          "description": "1 名前：少考さん ★：2025/10/01(水) 13:49:15.66 ID:J3sh6Ycc9.net\n\n\n\n\n\n\n\n「ほぼ全滅です」旬のサケ漁に異変…頭部のない個体続々　被害1000万円…途方に暮れる漁師たち https://t.co/lVG6FlQmj5— ENCOUNT (@encountofficial) September 30, 2025  \n\n\n\n\n\n\n「ほぼ全滅...",
-          "link": "https://itainews.com/archives/2053707.html",
-          "publishedOn": "2025-10-01T14:01:36.000Z",
-          "wordCount": 3731,
-          "title": "【北海道】「ほぼ全滅です」旬のサケ漁に異変…頭部のない個体続々　被害1000万円…途方に暮れる漁師たち　🦭",
-          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/3/43a2af70-s.png"
         }
       ]
     }
